@@ -1,0 +1,22 @@
+{
+	"/process/name": {
+		"display": "Process Name"
+	},
+	"/process/executable": {
+		"display": "Process Executable"
+	},
+	"/process/command_line": {
+		"display": "Process Command Line",
+		"block": true
+	},
+	"/process/parent/name": {
+		"display": "Parent Name"
+	},
+	"/process/parent/executable": {
+		"display": "Parent Executable"
+	},
+	"/process/parent/command_line": {
+		"display": "Parent Command Line",
+		"block": true
+	}
+}

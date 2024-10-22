@@ -1,0 +1,23 @@
+{
+	"SCOPES": [
+		"/host/name",
+		"/host/hostname"
+	],
+	"TIMESTAMP": "/@timestamp",
+	"USERS": [
+		"/user/name",
+		"/user/target/name"
+	],
+	"ACTIVITY": [
+		"/process/name",
+		"/process/executable",
+		"/process/parent/name",
+		"/process/parent/executable",
+
+		"/process/command_line",
+		"/process/parent/command_line"
+	],
+	"RNS": [
+		"Ensure this activity is expected and approved."
+	]
+}
