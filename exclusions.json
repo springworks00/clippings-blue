@@ -198,11 +198,11 @@
 	"/kibana.alert.building_block_type",
 	"/kibana.alert.group.index",
 	"/process/Ext/session_info/id",
-	"/log/level"
-
-
-
-
+	"/log/level",
+	"/cisco_duo/auth/txid",
+	"/powershell/sequence",
+	"/powershell/total",
+	"/winlog/version"
 
 
 
