@@ -177,7 +177,36 @@
 	"/sentinel_one/activity/site/id",
 	"/sentinel_one/activity/threat/id",
 	"/sentinel_one/activity/updated_at",
-	"/user/group/id"
+	"/user/group/id",
+	"/host/os/version",
+	"/host/os/kernel",
+	"/event.agent_id_status",
+	"/kibana.alert.original_event.agent_id_status",
+	"/process/Ext/mitigation_policies",
+	"/process/Ext/token/elevation_level",
+	"/process/Ext/token/integrity_level_name",
+	"/process/Ext/token/security_attributes",
+	"/process/args_count",
+	"/process/args",
+	"/process/parent/args_count"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
