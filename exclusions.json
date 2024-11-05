@@ -229,12 +229,6 @@
 	"/kibana.alert.rule.risk_score_mapping/field",
 	"/kibana.alert.rule.risk_score_mapping/operator",
 	"/kibana.alert.rule.risk_score_mapping/value",
-	"/kibana.alert.rule.rule_name_override"
-
-
-
-
-
-
-
+	"/kibana.alert.rule.rule_name_override",
+	"/process/Ext/session_info/user_flags"
 ]
