@@ -105,5 +105,25 @@
 	"/todyl/agent/guid",
 	"/todyl/agent/id",
 	"/todyl/organization/id",
-	"/todyl/organization/parent_id"
+	"/todyl/organization/parent_id",
+	"/kibana.alert.rule.meta.from",
+	"/user/risk/calculated_level",
+	"/user/risk/calculated_score_norm",
+	"/kibana.alert.rule.parameters/to",
+	"/@timestamp",
+	"/kibana.alert.original_event.action",
+	"/kibana.alert.rule.created_at",
+	"/kibana.alert.rule.category",
+	"/kibana.alert.rule.parameters/to"
+
+
+
+
+
+
+
+
+
+
+
 ]
