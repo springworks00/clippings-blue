@@ -230,5 +230,31 @@
 	"/kibana.alert.rule.risk_score_mapping/operator",
 	"/kibana.alert.rule.risk_score_mapping/value",
 	"/kibana.alert.rule.rule_name_override",
-	"/process/Ext/session_info/user_flags"
+	"/process/Ext/session_info/user_flags",
+	"/kibana.alert.rule.parameters/timeline_id",
+	"/kibana.alert.rule.timeline_id",
+	"/process/parent/args"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
