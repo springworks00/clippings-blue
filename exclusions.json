@@ -154,7 +154,47 @@
 	"/threat/technique/subtechnique/reference",
 	"/todyl/pipeline/enrich",
 	"/todyl/pipeline/stasher",
-	"/todyl/retention/expires"
+	"/todyl/retention/expires",
+	"/cloud/instance/id",
+	"/cloud/account/id",
+	"/cloud/provider",
+	"/destination/geo/location/lat",
+	"/destination/geo/location/lon",
+	"/destination/as/number",
+	"/elastic_agent/id",
+	"/elastic_agent/snapshot",
+	"/elastic_agent/version",
+	"/event/start",
+	"/kibana.alert.original_event.start",
+	"/kibana.alert.original_event.timezone",
+	"/source/geo/location/lat",
+	"/source/geo/location/lon"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
