@@ -188,16 +188,17 @@
 	"/process/Ext/token/security_attributes",
 	"/process/args_count",
 	"/process/args",
-	"/process/parent/args_count"
-
-
-
-
-
-
-
-
-
+	"/process/parent/args_count",
+	"/kibana.alert.rule.author",
+	"/kibana.alert.rule.parameters/author",
+	"/host/os/Ext/variant",
+	"/host/os/type",
+	"/kibana.alert.group.id",
+	"/kibana.alert.ancestors/rule",
+	"/kibana.alert.building_block_type",
+	"/kibana.alert.group.index",
+	"/process/Ext/session_info/id",
+	"/log/level"
 
 
 
