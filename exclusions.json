@@ -114,14 +114,47 @@
 	"/kibana.alert.original_event.action",
 	"/kibana.alert.rule.created_at",
 	"/kibana.alert.rule.category",
-	"/kibana.alert.rule.parameters/to"
-
-
-
-
-
-
-
+	"/kibana.alert.rule.parameters/to",
+	"/Endpoint/policy/applied/artifacts/global/identifiers/name",
+	"/Endpoint/policy/applied/artifacts/global/identifiers/sha256",
+	"/Endpoint/policy/applied/artifacts/global/snapshot",
+	"/Endpoint/policy/applied/artifacts/global/update_age",
+	"/Endpoint/policy/applied/artifacts/global/version",
+	"/Endpoint/policy/applied/artifacts/user/identifiers/name",
+	"/Endpoint/policy/applied/artifacts/user/identifiers/sha256",
+	"/Endpoint/policy/applied/artifacts/user/version",
+	"/Events/@timestamp",
+	"/Events/_label",
+	"/Events/event/created",
+	"/Events/event/id",
+	"/Responses/@timestamp",
+	"/agent/build/original",
+	"/agent/id",
+	"/agent/type",
+	"/agent/version",
+	"/elastic/agent/id",
+	"/event.created",
+	"/event.risk_score",
+	"/event.sequence",
+	"/event.severity",
+	"/kibana.alert.original_event.created",
+	"/kibana.alert.original_event.risk_score",
+	"/kibana.alert.original_event.sequence",
+	"/kibana.alert.original_event.severity",
+	"/rule/id",
+	"/rule/reference",
+	"/rule/ruleset",
+	"/rule/version",
+	"/threat/framework",
+	"/threat/tactic/id",
+	"/threat/tactic/name",
+	"/threat/technique/reference",
+	"/threat/technique/subtechnique/id",
+	"/threat/technique/subtechnique/name",
+	"/threat/technique/subtechnique/reference",
+	"/todyl/pipeline/enrich",
+	"/todyl/pipeline/stasher",
+	"/todyl/retention/expires"
 
 
 
