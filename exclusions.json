@@ -233,28 +233,19 @@
 	"/process/Ext/session_info/user_flags",
 	"/kibana.alert.rule.parameters/timeline_id",
 	"/kibana.alert.rule.timeline_id",
-	"/process/parent/args"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	"/process/parent/args",
+	"/o365/audit/Actor/Type",
+	"/o365/audit/Target/Type",
+	"/event.kind",
+	"/file/Ext/malware_classification/version",
+	"/file/pe/file_version",
+	"/process/parent/start",
+	"/process/uptime",
+	"/process/parent/uptime",
+	"/process/start",
+	"/process/Ext/token/domain",
+	"/process/Ext/token/elevation",
+	"/process/Ext/token/elevation_type",
+	"/process/Ext/token/sid",
+	"/process/Ext/token/user"
 ]
