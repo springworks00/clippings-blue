@@ -1,3 +1,6 @@
-{
-	"/not/an/array": true
-}
+[
+	"/@version",
+	"/data_stream/dataset",
+	"/data_stream/namespace",
+	"/data_stream/type"
+]
