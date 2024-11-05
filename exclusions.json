@@ -168,16 +168,16 @@
 	"/kibana.alert.original_event.start",
 	"/kibana.alert.original_event.timezone",
 	"/source/geo/location/lat",
-	"/source/geo/location/lon"
-
-
-
-
-
-
-
-
-
+	"/source/geo/location/lon",
+	"/host/geo/location/lat",
+	"/host/geo/location/lon",
+	"/sentinel_one/activity/account/id",
+	"/sentinel_one/activity/agent/id",
+	"/sentinel_one/activity/id",
+	"/sentinel_one/activity/site/id",
+	"/sentinel_one/activity/threat/id",
+	"/sentinel_one/activity/updated_at",
+	"/user/group/id"
 
 
 
