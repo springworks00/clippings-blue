@@ -202,26 +202,34 @@
 	"/cisco_duo/auth/txid",
 	"/powershell/sequence",
 	"/powershell/total",
-	"/winlog/version"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	"/winlog/version",
+	"/o365/audit/CreationTime",
+	"/organization/id",
+	"/azure/auditlogs/level",
+	"/azure/auditlogs/operation_version",
+	"/azure/auditlogs/properties/activity_datetime",
+	"/azure/tenant_id",
+	"/kibana.alert.original_event.duration",
+	"/Events/_state",
+	"/Events/host/id",
+	"/Events/host/os/Ext/variant",
+	"/Events/host/os/kernel",
+	"/Events/host/os/version",
+	"/Events/host/os/type",
+	"/Events/process/Ext/token/elevation_level",
+	"/Events/process/Ext/token/integrity_level_name",
+	"/Events/process/Ext/token/security_attributes",
+	"/Events/process/args",
+	"/Events/process/args_count",
+	"/Events/process/parent/args_count",
+	"/Responses/action/state",
+	"/kibana.alert.rule.parameters/risk_score_mapping/field",
+	"/kibana.alert.rule.parameters/risk_score_mapping/operator",
+	"/kibana.alert.rule.parameters/risk_score_mapping/value",
+	"/kibana.alert.rule.risk_score_mapping/field",
+	"/kibana.alert.rule.risk_score_mapping/operator",
+	"/kibana.alert.rule.risk_score_mapping/value",
+	"/kibana.alert.rule.rule_name_override"
 
 
 
