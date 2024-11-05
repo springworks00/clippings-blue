@@ -247,5 +247,17 @@
 	"/process/Ext/token/elevation",
 	"/process/Ext/token/elevation_type",
 	"/process/Ext/token/sid",
-	"/process/Ext/token/user"
+	"/process/Ext/token/user",
+	"/azure/activitylogs/identity/claims",
+	"/azure/activitylogs/ReleaseVersion",
+	"/event.duration",
+	"/geo/location/lat",
+	"/geo/location/lon",
+	"/kibana.alert.rule.parameters/rule_name_override",
+	"/threat/tactic/reference",
+	"/threat/technique/id",
+	"/threat/technique/name"
+
+
+
 ]
