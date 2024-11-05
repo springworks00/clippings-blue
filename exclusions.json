@@ -256,7 +256,19 @@
 	"/kibana.alert.rule.parameters/rule_name_override",
 	"/threat/tactic/reference",
 	"/threat/technique/id",
-	"/threat/technique/name"
+	"/threat/technique/name",
+	"/kibana.alert.rule.parameters/severity_mapping/field",
+	"/kibana.alert.rule.parameters/severity_mapping/operator",
+	"/kibana.alert.rule.parameters/severity_mapping/severity",
+	"/kibana.alert.rule.parameters/severity_mapping/value",
+	"/kibana.alert.rule.severity_mapping/field",
+	"/kibana.alert.rule.severity_mapping/operator",
+	"/kibana.alert.rule.severity_mapping/severity",
+	"/kibana.alert.rule.severity_mapping/value",
+	"/Sev",
+	"/doc_count"
+
+
 
 
 
