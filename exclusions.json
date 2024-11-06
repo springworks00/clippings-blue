@@ -266,7 +266,27 @@
 	"/kibana.alert.rule.severity_mapping/severity",
 	"/kibana.alert.rule.severity_mapping/value",
 	"/Sev",
-	"/doc_count"
+	"/doc_count",
+	"/Events/process/parent/args",
+	"/kibana.alert.rule.description"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
