@@ -268,10 +268,10 @@
 	"/Sev",
 	"/doc_count",
 	"/Events/process/parent/args",
-	"/kibana.alert.rule.description"
-
-
-
+	"/kibana.alert.rule.description",
+	"/kibana.alert.rule.building_block_type",
+	"/kibana.alert.rule.parameters/building_block_type",
+	"/kibana.alert.threshold_result/from"
 
 
 
