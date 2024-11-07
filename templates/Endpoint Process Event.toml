@@ -1,0 +1,16 @@
+display_as = "Endpoint Process Event"
+rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
+rns = [
+	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+]
+rns_tp = [
+	"Ensure this activity was expected and approved.",
+]
+data = [
+	"/process/name",
+	"/process/executable",
+	"/process/parent/name",
+	"/process/parent/executable",
+	"/process/command_line",
+	"/process/parent/command_line",
+]

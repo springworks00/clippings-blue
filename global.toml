@@ -1,4 +1,8 @@
-[
+timestamp = [ 
+	"/Detection Time",
+	"/@timestamp",
+]
+exclude_when_focused = [
 	"/@version",
 	"/data_stream/dataset",
 	"/data_stream/namespace",

@@ -1,0 +1,15 @@
+["__USER__"]
+path_set = [
+	"/user/name",
+	"/user/target/name",
+]
+prefix_primary = "with user"
+prefix_secondary = "Related Users"
+
+["__HOST__"]
+path_set = [
+	"/host/hostname",
+	"/host/name",
+]
+prefix_primary = "on host"
+prefix_secondary = "Related Hosts"
