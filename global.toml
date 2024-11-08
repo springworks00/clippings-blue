@@ -2,6 +2,7 @@ timestamp = [
 	"/Detection Time",
 	"/@timestamp",
 ]
+compaction_limit = 10
 exclude_when_focused = [
 	"/@version",
 	"/data_stream/dataset",

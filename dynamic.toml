@@ -1,5 +1,5 @@
 [[push_back]]
-if = "/foor"
-equals = "bar"
-then = "/baz"
+if = [ "/foo" ]
+equals = [ "bar" ]
+then = [ "/baz" ]
 reason = "Hello, World"

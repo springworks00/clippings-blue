@@ -1,5 +1,7 @@
 display_as = "Endpoint Process Event"
-rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
+rca_footer = [
+	"There are no additional alerts at this time which suggest user or host compromise.",
+]
 rns = [
 	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
 ]
