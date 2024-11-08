@@ -277,5 +277,8 @@ exclude_when_focused = [
 	"/kibana.alert.rule.building_block_type",
 	"/kibana.alert.rule.parameters/building_block_type",
 	"/kibana.alert.threshold_result/from",
-	"/agent/ephemeral_id"
+	"/agent/ephemeral_id",
+	"/Events/event/kind",
+	"/Events/event/category",
+	"/Events/event/type"
 ]
