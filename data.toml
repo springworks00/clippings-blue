@@ -1,4 +1,8 @@
 [rename]
+"/process/name" = "Process Name"
+"/process/executable" = "Process Executable"
+"/process/parent/name" = "Parent Name"
+"/process/parent/executable" = "Parent Executable"
 "/process/command_line" = "Process Command Line"
 "/process/parent/command_line" = "Parent Command Line"
 
