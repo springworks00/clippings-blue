@@ -5,6 +5,8 @@
 "/process/parent/executable" = "Parent Executable"
 "/process/command_line" = "Process Command Line"
 "/process/parent/command_line" = "Parent Command Line"
+"/file/name" = "File Name"
+"/file/path" = "File Path"
 
 [format]
 "/process/command_line" = "block"

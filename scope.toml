@@ -1,5 +1,6 @@
 ["__USER__"]
 path_set = [
+	"/winlog/event_data/Detection User",
 	"/user/name",
 	"/user/target/name",
 ]
