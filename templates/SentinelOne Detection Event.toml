@@ -1,19 +1,19 @@
-display_as = "Endpoint File Event"
+display_as = "Endpoint Process Event"
 rca_footer = [
 	"There are no additional alerts at this time which suggest user or host compromise.",
 ]
 rns = [
+	"For more information, please visit the SentinelOne Portal",
 	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
 ]
 rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
-	"/event.action",
 	"/file/name",
-	"/file/Ext/original/name",
 	"/file/path",
-	"/file/Ext/original/path",
-	"/process/name",
-	"/process/executable",
+	"/file/hash/sha1",
+	"/sentinel_one/activity/data/threat/classification/name",
+	"/sentinel_one/activity/description/primary",
+	"/sentinel_one/threat/malicious_process_arguments",
 ]
