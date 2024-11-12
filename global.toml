@@ -2,6 +2,7 @@ timestamp = [
 	"/winlog/event_data/Detection Time",
 	"/@timestamp",
 ]
+default_unique_prefix = ">"
 report_footer = "The Todyl MXDR team will continue to monitor the organization’s systems for any suspicious activity and respond promptly to any potential threats. If you have additional questions for this activity, please reach out to the MXDR Team via Teams/Slack or by speaking with your Detection and Response Account Manager (DRAM)."
 compaction_limit = 10
 exclude_when_focused = [

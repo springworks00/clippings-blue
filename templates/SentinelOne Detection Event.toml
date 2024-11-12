@@ -1,4 +1,4 @@
-display_as = "Endpoint Process Event"
+display_as = "SentinelOne AV Event"
 rca_footer = [
 	"There are no additional alerts at this time which suggest user or host compromise.",
 ]

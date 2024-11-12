@@ -11,10 +11,14 @@
 "/file/Ext/original/name" = "Original File Name"
 "/file/Ext/original/path" = "Original File Path"
 "/sentinel_one/activity/description/primary" = "Action Taken"
-"/sentinel_one/activity/data/threat/classification/name" = "Classificaiton"
+"/sentinel_one/activity/data/threat/classification/name" = "Classification"
 
 [format]
 "/process/command_line" = "block"
 "/process/parent/command_line" = "block"
 "/sentinel_one/activity/description/primary" = "block"
 "/sentinel_one/threat/malicious_process_arguments" = "block"
+
+[unique_prefix]
+"/process/command_line" = "$"
+"/process/parent/command_line" = "$"
