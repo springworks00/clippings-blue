@@ -12,8 +12,8 @@ data = [
 	"/event.action",
 	"/file/name",
 	"/file/path",
-	"/file/original/name",
-	"/file/original/path",
+	"/file/Ext/original/name",
+	"/file/Ext/original/path",
 	"/process/name",
 	"/process/executable",
 ]

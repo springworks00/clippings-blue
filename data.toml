@@ -7,8 +7,8 @@
 "/process/parent/command_line" = "Parent Command Line"
 "/file/name" = "File Name"
 "/file/path" = "File Path"
-"/file/original/name" = "Original File Name"
-"/file/original/path" = "Original File Path"
+"/file/Ext/original/name" = "Original File Name"
+"/file/Ext/original/path" = "Original File Path"
 
 [format]
 "/process/command_line" = "block"
