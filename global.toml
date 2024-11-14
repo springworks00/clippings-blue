@@ -288,4 +288,5 @@ exclude_when_focused = [
 	"/kibana.alert.rule.interval",
 	"/kibana.alert.rule.parameters/description",
 	"/kibana.alert.rule.parameters/false_positives",
+	"/kibana.alert.rule.name",
 ]
