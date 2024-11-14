@@ -285,4 +285,7 @@ exclude_when_focused = [
 	"/Events/event/type",
 	"/kibana.alert.rule.parameters/query",
 	"/kibana.alert.rule.false_positives",
+	"/kibana.alert.rule.interval",
+	"/kibana.alert.rule.parameters/description",
+	"/kibana.alert.rule.parameters/false_positives",
 ]
