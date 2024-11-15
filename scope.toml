@@ -6,6 +6,7 @@ path_set = [
 ]
 prefix_primary = "with user"
 prefix_secondary = "Related Users"
+plural_fallback = "with multiple users"
 
 ["__HOST__"]
 path_set = [
@@ -13,4 +14,21 @@ path_set = [
 	"/host/name",
 ]
 prefix_primary = "on host"
-prefix_secondary = "Related Hosts"
+prefix_secondary = "Affected Hosts"
+plural_fallback = "on multiple hosts"
+
+["__DOMAIN__"]
+path_set = [
+	"/user/domain"
+]
+prefix_primary = "on domain"
+prefix_secondary = "Affected Domains"
+plural_fallback = "on multiple domains"
+
+["__TENANT__"]
+path_set = [
+	"/todyl/organization/name"
+]
+prefix_primary = "in tenant"
+prefix_secondary = "Affected Tenants"
+plural_fallback = "in multiple tenants"

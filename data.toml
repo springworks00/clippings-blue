@@ -22,3 +22,13 @@
 [unique_prefix]
 "/process/command_line" = "$"
 "/process/parent/command_line" = "$"
+
+[compound.templates]
+"/source/network_session" = [
+	"try this {{ source_ip }} on {{ source_port }}",
+	"then this {{ sourc_ip }}",
+]
+
+[compound.variables]
+"source_ip" = "/source/ip"
+"source_port" = "/source/port"
