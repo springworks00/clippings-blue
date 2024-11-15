@@ -1,5 +1,9 @@
-display_as = "Machine Learning Event"
-rca_footer = []
+display_as = "Todyl Machine-Learning Event"
+scopes = [
+	"__HOST__",
+	"__USER__",
+]
+rca_footer = "TODO"
 rns = []
 rns_tp = []
 data = []
