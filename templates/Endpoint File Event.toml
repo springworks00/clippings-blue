@@ -1,4 +1,5 @@
 display_as = "Endpoint File Activity"
+surrounding_events = true
 scopes = [
 	"__HOST__",
 	"__USER__",
