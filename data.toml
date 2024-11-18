@@ -47,6 +47,8 @@
 
 "/Events/process/command_line" = "Process Command Line"
 "/Events/process/parent/command_line" = "Parent Command Line"
+"/o365/audit/Data" = "Audit Data"
+"/o365/audit/Source" = "Audit Source"
 
 [format]
 "/process/command_line" = "block"
@@ -58,6 +60,7 @@
 "/user_agent/original" = "block"
 "/Events/process/command_line" = "block"
 "/Events/process/parent/command_line" = "block"
+"/o365/audit/Data" = "block"
 
 [unique_prefix]
 "/process/command_line" = "$"
