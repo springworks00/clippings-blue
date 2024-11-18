@@ -1,4 +1,4 @@
-display_as = "Endpoint File Activity"
+display_as = "Endpoint File Event"
 surrounding_events = true
 scopes = [
 	"__HOST__",
@@ -16,7 +16,11 @@ data = [
 	"/file/name",
 	"/file/Ext/original/name",
 	"/file/path",
+	"/file/extension",
 	"/file/Ext/original/path",
 	"/process/name",
 	"/process/executable",
+	"/process/code_signature/subject_name",
+	"/process/command_line",
+	"/process/parent/command_line",
 ]

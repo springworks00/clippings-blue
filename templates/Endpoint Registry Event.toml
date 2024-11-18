@@ -19,4 +19,5 @@ data = [
 	"/registry/path",
 	"/registry/value",
 	"/registry/data/strings",
+	"/process/command_line",
 ]

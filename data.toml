@@ -16,6 +16,7 @@
 "/registry/path" = "Registry Path"
 "/registry/value" = "Registry Value"
 "/registry/data/strings" = "Registry Strings"
+"/file/extension" = "File Extension"
 
 [format]
 "/process/command_line" = "block"
