@@ -31,6 +31,22 @@
 "/source/enrich/vpn" = "VPN Usage"
 "/source/enrich/tor" = "TOR Usage"
 "/source/enrich/proxy" = "Proxy Usage"
+"/Events/event/action" = "Event Action"
+"/Events/destination/ip" = "Destination IP"
+"/Events/file/name" = "File Name"
+"/Events/file/path" = "File Path"
+"/Events/file/Ext/original/name" = "Original File Name"
+"/Events/file/Ext/original/extension" = "Original File Extension"
+"/Events/file/Ext/original/path" = "Original File Path"
+"/Events/process/name" = "Process Name"
+"/Events/process/executable" = "Process Executable"
+"/Events/process/working_directory" = "Working Directory"
+"/Events/process/code_signature/subject_name" = "Process Signer"
+"/Events/process/parent/name" = "Parent Name"
+"/Events/process/parent/executable" = "Parent Executable"
+
+"/Events/process/command_line" = "Process Command Line"
+"/Events/process/parent/command_line" = "Parent Command Line"
 
 [format]
 "/process/command_line" = "block"
@@ -40,6 +56,8 @@
 "/registry/data/strings" = "block"
 "/message" = "block"
 "/user_agent/original" = "block"
+"/Events/process/command_line" = "block"
+"/Events/process/parent/command_line" = "block"
 
 [unique_prefix]
 "/process/command_line" = "$"

@@ -12,13 +12,23 @@ rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
-	"/event.action",
-	"/process/name",
-	"/process/executable",
-	"/process/working_directory",
-	"/process/code_signature/subject_name",
-	"/process/parent/name",
-	"/process/parent/executable",
-	"/process/command_line",
-	"/process/parent/command_line",
+	"/Events/event/action",
+	"/Events/destination/ip",
+
+	"/Events/file/name",
+	"/Events/file/path",
+	"/Events/file/Ext/original/name",
+	"/Events/file/Ext/original/extension",
+	"/Events/file/Ext/original/path",
+
+	"/Events/process/name",
+	"/Events/process/executable",
+	"/Events/process/working_directory",
+	"/Events/process/code_signature/subject_name",
+
+	"/Events/process/parent/name",
+	"/Events/process/parent/executable",
+
+	"/Events/process/command_line",
+	"/Events/process/parent/command_line",
 ]
