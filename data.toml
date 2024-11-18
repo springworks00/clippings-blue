@@ -17,6 +17,8 @@
 "/registry/value" = "Registry Value"
 "/registry/data/strings" = "Registry Strings"
 "/file/extension" = "File Extension"
+"/dns/question/name" = "DNS Question"
+"/dns/question/type" = "DNS Type"
 
 [format]
 "/process/command_line" = "block"
@@ -24,6 +26,7 @@
 "/sentinel_one/activity/description/primary" = "block"
 "/sentinel_one/threat/malicious_process_arguments" = "block"
 "/registry/data/strings" = "block"
+"/message" = "block"
 
 [unique_prefix]
 "/process/command_line" = "$"
