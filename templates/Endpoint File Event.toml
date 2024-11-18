@@ -16,7 +16,6 @@ data = [
 	"/file/name",
 	"/file/Ext/original/name",
 	"/file/path",
-	"/file/extension",
 	"/file/Ext/original/path",
 	"/process/name",
 	"/process/executable",
