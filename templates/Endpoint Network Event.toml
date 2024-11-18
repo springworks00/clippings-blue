@@ -11,6 +11,8 @@ rns = [
 rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
+# Missing:
+# Destination IP
 data = [
 	"/event.action",
 	"/dns/question/name",

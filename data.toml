@@ -10,7 +10,7 @@
 "/file/hash/sha1" = "SHA1 Hash"
 "/file/Ext/original/name" = "Original File Name"
 "/file/Ext/original/path" = "Original File Path"
-"/sentinel_one/activity/description/primary" = "Action Taken"
+"/sentinel_one/activity/description/primary" = "S1 Action Taken"
 "/sentinel_one/activity/data/threat/classification/name" = "Classification"
 "/process/code_signature/subject_name" = "Process Signer"
 "/registry/path" = "Registry Path"
