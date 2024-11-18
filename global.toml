@@ -289,4 +289,11 @@ exclude_when_focused = [
 	"/kibana.alert.rule.parameters/description",
 	"/kibana.alert.rule.parameters/false_positives",
 	"/kibana.alert.rule.name",
+	"/kibana.alert.rule.actions/action_type_id",
+	"/kibana.alert.rule.actions/frequency/notifyWhen",
+	"/kibana.alert.rule.actions/frequency/summary",
+	"/kibana.alert.rule.actions/group",
+	"/kibana.alert.rule.actions/id",
+	"/kibana.alert.rule.actions/params/message",
+	"/kibana.alert.rule.actions/uuid",
 ]

@@ -19,6 +19,18 @@
 "/file/extension" = "File Extension"
 "/dns/question/name" = "DNS Question"
 "/dns/question/type" = "DNS Type"
+"/azure/signinlogs/operation_name" = "Azure Operation"
+"/azure/signinlogs/identity" = "Azure Identity"
+"/azure/signinlogs/properties/app_display_name" = "Azure Application"
+"/user_agent/original" = "User Agent"
+"/source/address" = "IP Address"
+"/source/as/organization/name" = "Source ASN"
+"/source/geo/city_name" = "Source City"
+"/source/geo/region_name" = "Source Region"
+"/source/geo/country_name" = "Source Country"
+"/source/enrich/vpn" = "VPN Usage"
+"/source/enrich/tor" = "TOR Usage"
+"/source/enrich/proxy" = "Proxy Usage"
 
 [format]
 "/process/command_line" = "block"
@@ -27,6 +39,7 @@
 "/sentinel_one/threat/malicious_process_arguments" = "block"
 "/registry/data/strings" = "block"
 "/message" = "block"
+"/user_agent/original" = "block"
 
 [unique_prefix]
 "/process/command_line" = "$"

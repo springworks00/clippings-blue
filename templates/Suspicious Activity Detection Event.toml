@@ -1,0 +1,27 @@
+display_as = "Suspicious Activity"
+surrounding_events = true
+scopes = [
+	"__DOMAIN__",
+	"__USER__",
+]
+rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
+rns = [
+	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+]
+rns_tp = [
+	"Log out of all active sessions, reset the credentials of the end user, and ensure MFA is enabled/reset."
+]
+data = [
+	"/azure/signinlogs/operation_name",
+	"/azure/signinlogs/identity",
+	"/azure/signinlogs/properties/app_display_name",
+
+	"/source/address",
+	"/source/as/organization/name",
+	"/source/geo/city_name",
+	"/source/geo/region_name",
+	"/source/geo/country_name",
+	"/source/enrich/vpn",
+
+	"/user_agent/original",
+]
