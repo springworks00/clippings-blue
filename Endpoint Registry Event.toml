@@ -1,4 +1,4 @@
-display_as = "Endpoint Process Event"
+display_as = "Endpoint Registry Event"
 surrounding_events = true
 scopes = [
 	"__HOST__",
@@ -6,7 +6,7 @@ scopes = [
 ]
 rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
 rns = [
-	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+	"If this activity is not expected, please revert the specified registry alterations and reach out to the MXDR team for further investigation."
 ]
 rns_tp = [
 	"Ensure this activity was expected and approved.",
@@ -15,10 +15,8 @@ data = [
 	"/event.action",
 	"/process/name",
 	"/process/executable",
-	"/process/working_directory",
 	"/process/code_signature/subject_name",
-	"/process/parent/name",
-	"/process/parent/executable",
-	"/process/command_line",
-	"/process/parent/command_line",
+	"/registry/path",
+	"/registry/value",
+	"/registry/data/strings",
 ]

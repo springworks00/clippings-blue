@@ -12,12 +12,17 @@
 "/file/Ext/original/path" = "Original File Path"
 "/sentinel_one/activity/description/primary" = "Action Taken"
 "/sentinel_one/activity/data/threat/classification/name" = "Classification"
+"/process/code_signature/subject_name" = "Process Signer"
+"/registry/path" = "Registry Path"
+"/registry/value" = "Registry Value"
+"/registry/data/strings" = "Registry Strings"
 
 [format]
 "/process/command_line" = "block"
 "/process/parent/command_line" = "block"
 "/sentinel_one/activity/description/primary" = "block"
 "/sentinel_one/threat/malicious_process_arguments" = "block"
+"/registry/data/strings" = "block"
 
 [unique_prefix]
 "/process/command_line" = "$"
