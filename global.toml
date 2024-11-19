@@ -297,8 +297,9 @@ exclude_when_focused = [
 	"/kibana.alert.rule.actions/id",
 	"/kibana.alert.rule.actions/params/message",
 	"/kibana.alert.rule.actions/uuid",
-]
-exclude_when_compact = [
+
+
+	# -------- AGGRESSIVE --------
 	"/file/Ext/device/vendor_id",
 	"/file/Ext/entropy",
 	"/host/mac",
@@ -312,29 +313,5 @@ exclude_when_compact = [
 	"/process/Ext/code_signature/trusted",
 	"/process/thread/id",
 	"/todyl/organization/mxdr",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
+exclude_when_compact = [ ]
