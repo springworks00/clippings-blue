@@ -299,5 +299,42 @@ exclude_when_focused = [
 	"/kibana.alert.rule.actions/uuid",
 ]
 exclude_when_compact = [
+	"/file/Ext/device/vendor_id",
+	"/file/Ext/entropy",
+	"/host/mac",
+	"/host/os/family",
+	"/host/os/name",
+	"/host/os/platform",
+	"/kibana.alert.rule.tags",
+	"/process/Ext/code_signature/exists",
+	"/process/Ext/code_signature/status",
+	"/process/Ext/code_signature/subject_name",
+	"/process/Ext/code_signature/trusted",
+	"/process/thread/id",
+	"/todyl/organization/mxdr",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]
