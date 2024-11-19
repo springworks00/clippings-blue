@@ -459,22 +459,39 @@ exclude_when_focused = [
 	"/process/parent/Ext/code_signature/trusted",
 	"/process/parent/thread/Ext/call_stack/symbol_info",
 	"/process/parent/thread/Ext/call_stack_summary",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	"/host/os/build",
+	"/input/type",
+	"/winlog/api",
+	"/winlog/channel",
+	"/winlog/event_data/Action ID",
+	"/winlog/event_data/Action Name",
+	"/winlog/event_data/Additional Actions ID",
+	"/winlog/event_data/Category ID",
+	"/winlog/event_data/Detection ID",
+	"/winlog/event_data/Detection Time",
+	"/winlog/event_data/Detection User",
+	"/winlog/event_data/Engine Version",
+	"/winlog/event_data/Error Code",
+	"/winlog/event_data/Execution ID",
+	"/winlog/event_data/Origin ID",
+	"/winlog/event_data/Post Clean Status",
+	"/winlog/event_data/Pre Execution Status",
+	"/winlog/event_data/Product Name",
+	"/winlog/event_data/Product Version",
+	"/winlog/event_data/Security intelligence Version",
+	"/winlog/event_data/Severity ID",
+	"/winlog/event_data/Source ID",
+	"/winlog/event_data/Source Name",
+	"/winlog/event_data/Source Name",
+	"/winlog/event_data/Status Code",
+	"/winlog/event_data/Threat ID",
+	"/winlog/event_data/Type ID",
+	"/winlog/event_data/Type Name",
+	"/winlog/event_id",
+	"/winlog/opcode",
+	"/winlog/process/thread/id",
+	"/winlog/provider_guid",
+	"/winlog/provider_name",
+	"/winlog/record_id",
 ]
 exclude_when_compact = [ ]
