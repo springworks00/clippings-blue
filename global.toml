@@ -381,6 +381,66 @@ exclude_when_focused = [
 	"/sentinel_one/threat/initiated/name",
 	"/sentinel_one/threat/is_fileless",
 	"/sentinel_one/threat/is_valid_certificate",
+	"/sentinel_one/threat/mitigated_preemptively",
+	"/sentinel_one/threat/mitigation_status/action_counters/failed",
+	"/sentinel_one/threat/mitigation_status/action_counters/not_found",
+	"/sentinel_one/threat/mitigation/description",
+	"/sentinel_one/threat/mitigation/status",
+	"/sentinel_one/threat/mitigation_status/action_counters/pending_reboot",
+	"/sentinel_one/threat/mitigation_status/action_counters/success",
+	"/sentinel_one/threat/mitigation_status/action_counters/total",
+	"/sentinel_one/threat/mitigation_status/agent_supports_report",
+	"/sentinel_one/threat/mitigation_status/group_not_found",
+	"/sentinel_one/threat/mitigation_status/last_update",
+	"/sentinel_one/threat/mitigation_status/latest_report",
+	"/sentinel_one/threat/mitigation_status/mitigation_ended_at",
+	"/sentinel_one/threat/mitigation_status/mitigation_started_at",
+	"/sentinel_one/threat/mitigation_status/reportId",
+	"/sentinel_one/threat/pending_actions",
+	"/sentinel_one/threat/reached_events_limit",
+	"/sentinel_one/threat/reboot_required",
+	"/sentinel_one/threat/storyline",
+	"/sentinel_one/threat/threat_id",
+	"/sentinel_one/threat/whitening_option",
+	"/sentinel_one/activity/account/name",
+	"/sentinel_one/activity/data/account/name",
+	"/sentinel_one/activity/data/downloaded/url",
+	"/sentinel_one/activity/data/flattened/macrosRemovedFailed",
+	"/sentinel_one/activity/data/flattened/macrosRemovedSuccess",
+	"/sentinel_one/activity/data/flattened/macrosRestoredFailed",
+	"/sentinel_one/activity/data/flattened/macrosRestoredSuccess",
+	"/sentinel_one/activity/data/flattened/sourceType",
+	"/sentinel_one/activity/data/fullscope/details",
+	"/sentinel_one/activity/data/fullscope/details_path",
+	"/sentinel_one/activity/data/group_name",
+	"/sentinel_one/activity/data/scope/level",
+	"/sentinel_one/activity/data/scope/name",
+	"/sentinel_one/activity/data/site/name",
+	"/sentinel_one/activity/site/name",
+	"/sentinel_one/activity/type",
+	"/user/group/name",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
