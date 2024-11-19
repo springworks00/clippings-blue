@@ -284,7 +284,7 @@ exclude_when_focused = [
 	"/Events/event/kind",
 	"/Events/event/category",
 	"/Events/event/type",
-	"/kibana.alert.rule.parameters/query",
+	#"/kibana.alert.rule.parameters/query",
 	"/kibana.alert.rule.false_positives",
 	"/kibana.alert.rule.interval",
 	"/kibana.alert.rule.parameters/description",
@@ -493,5 +493,6 @@ exclude_when_focused = [
 	"/winlog/provider_guid",
 	"/winlog/provider_name",
 	"/winlog/record_id",
+	"/winlog/user/identifier",
 ]
 exclude_when_compact = [ ]
