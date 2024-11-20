@@ -44,7 +44,6 @@
 "/Events/process/code_signature/subject_name" = "Process Signer"
 "/Events/process/parent/name" = "Parent Name"
 "/Events/process/parent/executable" = "Parent Executable"
-
 "/Events/process/command_line" = "Process Command Line"
 "/Events/process/parent/command_line" = "Parent Command Line"
 "/o365/audit/Data" = "Audit Data"
@@ -90,7 +89,7 @@
 "/Events/process/parent/command_line" = "block"
 "/o365/audit/Data" = "block"
 "/Responses/message" = "block"
-"/Events/registry/data/strings" = "blocks"
+"/Events/registry/data/strings" = "block"
 
 [unique_prefix]
 "/process/command_line" = "$"
