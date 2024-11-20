@@ -64,7 +64,6 @@
 "/okta/actor/alternate_id" = "Actor Alt ID"
 "/okta/target/alternate_id" = "Target Alt ID"
 "/okta/display_message" = "Message"
-"/okta/outcome/result" = "Outcome"
 "/okta/client/ip" = "Client IP"
 "/okta/security_context/as/organization/name" = "Source ASN"
 "/okta/debug_context/debug_data/request_uri" = "Request URI"
