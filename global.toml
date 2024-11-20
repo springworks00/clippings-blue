@@ -521,5 +521,25 @@ exclude_when_focused = [
 	"/user_agent/version",
 	"/source/geo/country_iso_code",
 	"/source/geo/region_iso_code",
+	"/log/offset",
+	"/tags",
+	"/aws/cloudtrail/user_identity/session_context/session_issuer/principal_id",
+	"/aws/cloudtrail/user_identity/session_context/session_issuer/account_id",
+	"/aws/cloudtrail/user_identity/session_context/creation_date",
+	"/aws/cloudtrail/user_identity/access_key_id",
+	"/aws/cloudtrail/request_id",
+	"/aws/cloudtrail/recipient_account_id",
+	"/aws/cloudtrail/event_version",
+
+
+
+
+
+
+
+
+
+
+
 ]
 exclude_when_compact = [ ]
