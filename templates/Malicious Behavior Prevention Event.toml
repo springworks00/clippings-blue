@@ -23,12 +23,15 @@ data = [
 
 	"/Events/process/name",
 	"/Events/process/executable",
-	"/Events/process/working_directory",
 	"/Events/process/code_signature/subject_name",
+	"/Events/process/working_directory",
 
 	"/Events/process/parent/name",
 	"/Events/process/parent/executable",
 
 	"/Events/process/command_line",
 	"/Events/process/parent/command_line",
+	"/Events/registry/path",
+	"/Events/registry/value",
+	"/Events/registry/data/strings",
 ]
