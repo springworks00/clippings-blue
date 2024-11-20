@@ -1,4 +1,4 @@
-display_as = "Endpoint File Activity"
+display_as = "Endpoint Library Activity"
 surrounding_events = true
 scopes = [
 	"__HOST__",
@@ -13,10 +13,10 @@ rns_tp = [
 ]
 data = [
 	"/event.action",
-	"/file/name",
-	"/file/Ext/original/name",
-	"/file/path",
-	"/file/Ext/original/path",
+	"/dll/name",
+	"/dll/path",
+	"/dll/code_signature/subject_name",
+	"/dll/pe/original_file_name",
 	"/process/name",
 	"/process/executable",
 	"/process/code_signature/subject_name",

@@ -25,8 +25,8 @@ data = [
 
 	"/Events/process/name",
 	"/Events/process/executable",
-	"/Events/process/working_directory",
 	"/Events/process/code_signature/subject_name",
+	"/Events/process/working_directory",
 
 	"/Events/process/parent/name",
 	"/Events/process/parent/executable",

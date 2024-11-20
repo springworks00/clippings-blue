@@ -75,6 +75,10 @@
 "/Events/registry/path" = "Registry Path"
 "/Events/registry/value" = "Registry Value"
 "/Events/registry/data/strings" = "Registry Strings"
+"/dll/name" = "DLL Name"
+"/dll/path" = "DLL Path"
+"/dll/Ext/code_signature/subject_name" = "DLL Signer"
+"/dll/pe/original_file_name" = "Original DLL Name"
 
 [format]
 "/process/command_line" = "block"
