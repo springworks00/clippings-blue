@@ -530,16 +530,8 @@ exclude_when_focused = [
 	"/aws/cloudtrail/request_id",
 	"/aws/cloudtrail/recipient_account_id",
 	"/aws/cloudtrail/event_version",
-
-
-
-
-
-
-
-
-
-
-
+	"/aws/cloudtrail/user_identity/type",
+	"/aws/cloudtrail/user_identity/session_context/session_issuer/type",
+	"/aws/cloudtrail/api_version",
 ]
 exclude_when_compact = [ ]
