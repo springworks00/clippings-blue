@@ -1,3 +1,9 @@
+[[push_front]]
+if = [ "/foo" ]
+equals = [ "bar" ]
+then = [ "/baz" ]
+reason = "Hello, World"
+
 [[push_back]]
 if = [ "/foo" ]
 equals = [ "bar" ]
