@@ -1,7 +1,24 @@
-display_as = "TODO"
+display_as = "AWS Activity"
 surrounding_events = false
-scopes = []
-rca_footer = "TODO"
-rns = []
-rns_tp = []
-data = []
+scopes = [
+	"__DOMAIN__",
+	"__USER__",
+]
+rca_footer = "There are no additional alerts at this time to suggest user account compromise."
+rns = [
+	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+]
+rns_tp = [
+	"[TODO]"
+]
+data = [
+	"/event.action",
+	"/aws/cloudtrail/user_identity/arn",
+	"/aws/cloudtrail/flattened/request_parameters/alarmNames"
+	"/user/name",
+	"/group/name",
+	"/source/address",
+	"/source/as/organization/name",
+	"/source/geo/country_name",
+	"/user_agent/original",
+]

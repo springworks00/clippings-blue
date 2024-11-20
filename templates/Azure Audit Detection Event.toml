@@ -1,4 +1,4 @@
-display_as = "Suspicious Activity"
+display_as = "Azure Audit Event"
 surrounding_events = true
 scopes = [
 	"__DOMAIN__",

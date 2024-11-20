@@ -1,0 +1,33 @@
+display_as = "Okta Event"
+surrounding_events = true
+scopes = [
+	"__DOMAIN__",
+	"__USER__",
+]
+rca_footer = "There are no additional alerts at this time to suggest user account compromise."
+rns = [
+	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+]
+rns_tp = [
+	"[TODO]"
+]
+data = [
+	"/okta/outcome/reason",
+	"/okta/outcome/result",
+	"/user/full_name",
+	"/okta/actor/alternate_id",
+	"/okta/target/alternate_id",
+	"/okta/display_message",
+	"/okta/outcome/result",
+	"/okta/debug_context/debug_data/request_uri",
+	"/okta/display_message",
+	"/okta/outcome/result",
+	"/okta/client/ip",
+	"/okta/security_context/as/organization/name",
+
+	"/source/as/organization/name",
+	"/source/geo/region_name",
+	"/source/geo/country_name",
+
+	"/user_agent/original",
+]

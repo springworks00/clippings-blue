@@ -12,6 +12,8 @@ rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
+	"/Responses/action/action",
+	"/Responses/message",
 	"/Events/event/action",
 	"/Events/destination/ip",
 
@@ -31,4 +33,7 @@ data = [
 
 	"/Events/process/command_line",
 	"/Events/process/parent/command_line",
+	"/Events/registry/path",
+	"/Events/registry/value",
+	"/Events/registry/data/strings",
 ]
