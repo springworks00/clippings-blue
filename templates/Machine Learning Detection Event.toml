@@ -4,6 +4,7 @@ scopes = [
 	"__HOST__",
 	"__USER__",
 ]
+rca_filler = "Per our investigation,"
 rca_footer = "TODO"
 rns = []
 rns_tp = []

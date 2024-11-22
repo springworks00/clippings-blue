@@ -1,5 +1,6 @@
 display_as = "SentinelOne AV Event"
 surrounding_events = false
+rca_filler = "Per our investigation,"
 rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
 scopes = [
 	"__HOST__",

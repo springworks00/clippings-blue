@@ -3,6 +3,7 @@ timestamp = [
 	"/@timestamp",
 ]
 default_unique_prefix = ">"
+# DO NOT CHANGE THIS FOOTER - primary method for metrics determining old templates vs narrated
 report_footer = "The Todyl MXDR team will continue to monitor this organization’s systems for any suspicious activity and will respond promptly to any potential threats. If you have additional questions for this activity, please reach out to the MXDR Team via Teams/Slack or by speaking with your Detection and Response Account Manager (DRAM)."
 compaction_limit = 10
 exclude_when_focused = [
@@ -558,5 +559,18 @@ exclude_when_focused = [
 	"/dll/Ext/relative_file_creation_time",
 	"/dll/Ext/relative_file_name_modify_time",
 	"/dll/Ext/size",
+	"/dll/Ext/load_index",
+	"/impossible_travel/lat_0",
+	"/impossible_travel/lat_1",
+	"/impossible_travel/lon_0",
+	"/impossible_travel/lon_1",
+	"/impossible_travel/speed_kmh",
+	"/impossible_travel/user_agent.device.name_0",
+	"/impossible_travel/user_agent.device.name_1",
+	"/impossible_travel/user_type_0",
+	"/impossible_travel/user_type_1",
+	"/impossible_travel/user_agent.name_1",
+	"/impossible_travel/user_agent.name_0",
+
 ]
 exclude_when_compact = [ ]
