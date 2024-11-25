@@ -108,7 +108,8 @@
 "/fortinet/firewall/status" = "Event Status"
 "/observer/name" = "Observer"
 "/cisco_duo/auth/application/name" = "Auth Application"
-
+"/winlog/event_data/Additional Actions String" = "Defender Additional Actions"
+"/winlog/event_data/Origin Name" = "Origin"
 
 [format]
 "/process/command_line" = "block"
