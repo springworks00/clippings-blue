@@ -120,6 +120,8 @@
 "/jumpcloud/useragent/os_full" = "User Agent OS"
 "/jumpcloud/resource/username" = "User Resource"
 "/powershell/file/script_block_id" = "Script Block ID"
+"/rule/id" = "Rule ID"
+"/observer/ip" = "Observer IP"
 
 [format]
 "/process/command_line" = "block"

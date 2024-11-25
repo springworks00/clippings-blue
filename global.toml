@@ -151,7 +151,6 @@ exclude_when_focused = [
 	"/kibana.alert.original_event.risk_score",
 	"/kibana.alert.original_event.sequence",
 	"/kibana.alert.original_event.severity",
-	"/rule/id",
 	"/rule/reference",
 	"/rule/ruleset",
 	"/rule/version",
