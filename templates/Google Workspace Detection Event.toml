@@ -17,6 +17,7 @@ data = [
 	"/user/name",
 	"/user/target/name",
 	"/google_workspace/admin/application/name",
+	"/google_workspace/admin/new_value",
 
 	"/source/as/organization/name",
 	"/source/geo/city_name",

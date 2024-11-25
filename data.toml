@@ -95,6 +95,7 @@
 "/sentinel_one/threat/mitigation_status/action" = "Mitigation Action"
 "/aws/cloudtrail/flattened/request_parameters/groupDescription" = "Group Description"
 "/google_workspace/admin/application/name" = "Application Name"
+"/google_workspace/admin/new_value" = "Admin New Value"
 
 [format]
 "/process/command_line" = "block"
