@@ -582,6 +582,10 @@ exclude_when_focused = [
 	"/group/id",
 	"/group/Ext/real/id",
 	"/sentinel_one/activity/data/flattened/storyline",
+	"/sentinel_one/activity/data/threat/classification/source",
+
+
+
 
 ]
 exclude_when_compact = [ ]
