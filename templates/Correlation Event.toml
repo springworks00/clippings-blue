@@ -28,4 +28,9 @@ data = [
 	"/process/parent/executable",
 	"/process/command_line",
 	"/process/parent/command_line",
+
+# ---- Suspicious Logon From an Abused Hosting Provider ---
+	"/source/enrich/hosting",
+	"/user_agent/original",
+
 ]

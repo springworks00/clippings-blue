@@ -135,6 +135,7 @@
 "/Events/dll/name" = "DLL Name"
 "/Events/dll/path" = "DLL Path"
 "/winlog/logon/failure/reason" = "Logon Failure Reason"
+"/source/enrich/hosting" = "Is Hosting Provider"
 
 
 [format]
