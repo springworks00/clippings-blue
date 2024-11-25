@@ -18,7 +18,11 @@ data = [
 	"/json/actor/email",
 	"/user/target/name",
 	"/google_workspace/admin/application/name",
+	"/google_workspace/admin/setting/name",
+	"/google_workspace/admin/user_defined_setting/name",
 	"/google_workspace/admin/new_value",
+
+
 
 	"/json/events/type",
 	"/json/events/parameters/name",

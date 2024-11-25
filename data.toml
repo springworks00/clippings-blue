@@ -100,6 +100,8 @@
 "/json/events/type" = "Event Type"
 "/json/events/parameters/name" = "Event Parameter Name"
 "/json/events/parameters/value" = "Event Parameter Value"
+"/google_workspace/admin/setting/name" = "Setting Name"
+"/google_workspace/admin/user_defined_setting/name" = "User-Defined Setting Name"
 
 [format]
 "/process/command_line" = "block"
