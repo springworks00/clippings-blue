@@ -20,4 +20,5 @@ data = [
 
 	"/jumpcloud/client_ip",
 	"/jumpcloud/geoip/region_name",
+	"/jumpcloud/useragent/os_full",
 ]

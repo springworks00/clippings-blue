@@ -625,8 +625,8 @@ exclude_when_focused = [
 	"/jumpcloud/provider",
 	"/jumpcloud/organization",
 	"/jumpcloud/initiated_by/provider",
-
-
+	"/jumpcloud/resource/id",
+	"/jumpcloud/initiated_by/id",
 
 ]
 exclude_when_compact = [ ]
