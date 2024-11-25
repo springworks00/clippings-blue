@@ -93,6 +93,7 @@
 "/threat/indicator/file/path" = "File Path"
 "/sentinel_one/threat/incident/status" = "Incident Status"
 "/sentinel_one/threat/mitigation_status/action" = "Mitigation Action"
+"/aws/cloudtrail/flattened/request_parameters/groupDescription" = "Group Description"
 
 [format]
 "/process/command_line" = "block"
