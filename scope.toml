@@ -4,7 +4,7 @@ path_set = [
 	"/sentinel_one/threat/process_user",
 	"/source/user/name",
 	"/jumpcloud/resource/username",
-	
+	"/winlog/user/name",	
 	"/user/name",
 	"/user/target/name",
 ]
