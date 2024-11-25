@@ -119,6 +119,7 @@
 "/jumpcloud/geoip/region_name" = "Client Region"
 "/jumpcloud/useragent/os_full" = "User Agent OS"
 "/jumpcloud/resource/username" = "User Resource"
+"/powershell/file/script_block_id" = "Script Block ID"
 
 [format]
 "/process/command_line" = "block"
