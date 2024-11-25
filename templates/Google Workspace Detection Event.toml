@@ -14,15 +14,14 @@ rns_tp = [
 ]
 data = [
 	"/event.action",
+	"/user/name",
+	"/user/target/name",
+	"/google_workspace/admin/application/name",
 
-
-
-
-
-
-
-
-
+	"/source/as/organization/name",
+	"/source/geo/city_name",
+	"/source/geo/region_name",
+	"/source/geo/country_name",
 
 ]
 
