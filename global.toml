@@ -605,6 +605,10 @@ exclude_when_focused = [
 	"/cisco/secure_endpoint/detection_id",
 	"/cisco/secure_endpoint/connector_guid",
 	"/cisco/secure_endpoint/event_type_id",
+	"/@metadata/pipeline",
+
+
+
 
 ]
 exclude_when_compact = [ ]
