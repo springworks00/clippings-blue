@@ -32,6 +32,7 @@
 "/source/enrich/tor" = "TOR Usage"
 "/source/enrich/proxy" = "Proxy Usage"
 "/destination/address" = "Destination IP"
+"/destination/ip" = "Destination IP"
 "/Events/event/action" = "Event Action"
 "/Events/destination/ip" = "Destination IP"
 "/Events/file/name" = "File Name"

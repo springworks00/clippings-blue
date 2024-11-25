@@ -15,8 +15,9 @@ rns_tp = [
 data = [
 	"/event.action",
 	"/source/ip",
-	"/observer/ip",
+	"/destination/ip",
 	"/rule/id",
+	"/sonicwall/firewall/category",
 
 	"/message",
 ]
