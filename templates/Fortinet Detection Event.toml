@@ -13,5 +13,9 @@ rns_tp = [
 	"[TODO]"
 ]
 data = [
+	"/fortinet/firewall/action",
+	"/fortinet/firewall/status",
+	"/observer/name",
+
 	"/message",
 ]
