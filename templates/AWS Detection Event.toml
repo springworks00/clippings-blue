@@ -16,6 +16,7 @@ data = [
 	"/event.action",
 	"/user/name",
 	"/aws/cloudtrail/user_identity/arn",
+	"/user/target/name",
 	"/aws/cloudtrail/flattened/request_parameters/alarmNames",
 	"/group/name",
 	"/aws/cloudtrail/flattened/request_parameters/groupDescription",

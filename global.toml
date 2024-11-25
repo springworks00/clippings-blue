@@ -596,6 +596,13 @@ exclude_when_focused = [
 	"/@metadata/version",
 	"/aws/cloudtrail/flattened/request_parameters/vpcId",
 	"/tls/cipher",
+	"/aws/cloudtrail/flattened/request_parameters/groupId",
+	"/aws/cloudtrail/flattened/response_elements/requestId",
+
+
+
+
+
 
 
 ]
