@@ -9,7 +9,7 @@ path_set = [
 ]
 prefix_primary = "with user"
 prefix_secondary = "Related Users"
-plural_fallback = "with multiple users"
+plural_fallback = "involving multiple users"
 app_display = "Users"
 
 ["__HOST__"]
