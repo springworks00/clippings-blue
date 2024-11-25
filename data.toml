@@ -131,6 +131,9 @@
 "/Events/process/Ext/api/summary" = "Process API Summary"
 "/Events/process/parent/code_signature/subject_name" = "Parent Signer"
 "/Target/process/Ext/memory_region/strings" = "Target Process Memory Region Strings"
+"/Events/process/Ext/api/parameters/hook_module" = "Process Hook Module"
+"/Events/dll/name" = "DLL Name"
+"/Events/dll/path" = "DLL Path"
 
 
 [format]
