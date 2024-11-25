@@ -581,7 +581,7 @@ exclude_when_focused = [
 	"/file/inode",
 	"/group/id",
 	"/group/Ext/real/id",
-
+	"/sentinel_one/activity/data/flattened/storyline",
 
 ]
 exclude_when_compact = [ ]
