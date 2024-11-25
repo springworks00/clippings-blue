@@ -40,7 +40,8 @@
 "/Events/file/Ext/original/path" = "Original File Path"
 "/Events/process/name" = "Process Name"
 "/Events/process/executable" = "Process Executable"
-"/Events/process/working_directory" = "Working Directory"
+"/Events/process/working_directory" = "Process Working Directory"
+"/process/working_directory" = "Process Working Directory"
 "/Events/process/code_signature/subject_name" = "Process Signer"
 "/Events/process/parent/name" = "Parent Name"
 "/Events/process/parent/executable" = "Parent Executable"
@@ -79,6 +80,15 @@
 "/dll/path" = "DLL Path"
 "/dll/Ext/code_signature/subject_name" = "DLL Signer"
 "/dll/pe/original_file_name" = "Original DLL Name"
+"/process/Ext/effective_parent/name" = "Effective Parent Name"
+"/process/Ext/effective_parent/executable" = "Effective Parent Executable"
+"/threat/indicator/file/hash/sha1" = "SHA1 Hash"
+"/sentinel_one/threat/name" = "File Name"
+"/sentinel_one/threat/originator_process" = "Originator Process"
+"/sentinel_one/threat/publisher/name" = "File Publisher"
+"/sentinel_one/threat/indicators/description" = "S1 Threat Indicators"
+"/sentinel_one/threat/classification" = "Classification"
+
 
 [format]
 "/process/command_line" = "block"
@@ -93,6 +103,7 @@
 "/o365/audit/Data" = "block"
 "/Responses/message" = "block"
 "/Events/registry/data/strings" = "block"
+"/sentinel_one/threat/indicators/description" = "block"
 
 [unique_prefix]
 "/process/command_line" = "$"

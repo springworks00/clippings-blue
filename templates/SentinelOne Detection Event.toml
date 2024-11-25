@@ -15,9 +15,19 @@ rns_tp = [
 ]
 data = [
 	"/file/name",
+	"/sentinel_one/threat/name",
+
 	"/file/path",
+	"/threat/indicator/file/path",
+
 	"/file/hash/sha1",
+	"/threat/indicator/file/hash/sha1",
+
+	"/sentinel_one/threat/publisher/name",
+
 	"/sentinel_one/activity/data/threat/classification/name",
+	"/sentinel_one/threat/classification",
 	"/sentinel_one/activity/description/primary",
 	"/sentinel_one/threat/malicious_process_arguments",
+	"/sentinel_one/threat/indicators/description",
 ]

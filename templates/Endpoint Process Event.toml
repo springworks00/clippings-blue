@@ -20,6 +20,9 @@ data = [
 	"/process/code_signature/subject_name",
 	"/process/parent/name",
 	"/process/parent/executable",
+	"/process/Ext/effective_parent/name",
+	"/process/Ext/effective_parent/executable",
+
 	"/process/command_line",
 	"/process/parent/command_line",
 ]

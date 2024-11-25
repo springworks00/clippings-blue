@@ -571,6 +571,6 @@ exclude_when_focused = [
 	"/impossible_travel/user_type_1",
 	"/impossible_travel/user_agent.name_1",
 	"/impossible_travel/user_agent.name_0",
-
+	"/azure/signinlogs/properties/processing_time_ms",
 ]
 exclude_when_compact = [ ]
