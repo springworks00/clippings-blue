@@ -14,6 +14,9 @@ rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
+	"/sentinel_one/threat/incident/status",
+	"/sentinel_one/threat/mitigation_status/action",
+
 	"/file/name",
 	"/sentinel_one/threat/name",
 
@@ -25,6 +28,7 @@ data = [
 
 	"/sentinel_one/threat/publisher/name",
 
+	"/process/name",
 	"/sentinel_one/threat/originator_process",
 
 	"/sentinel_one/activity/data/threat/classification/name",

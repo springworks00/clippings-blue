@@ -91,6 +91,8 @@
 "/Effective_process/name" = "Effective Process Name"
 "/Effective_process/executable" = "Effective Process Executable"
 "/threat/indicator/file/path" = "File Path"
+"/sentinel_one/threat/incident/status" = "Incident Status"
+"/sentinel_one/threat/mitigation_status/action" = "Mitigation Action"
 
 [format]
 "/process/command_line" = "block"
