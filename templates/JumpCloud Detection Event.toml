@@ -19,5 +19,5 @@ data = [
 	"/jumpcloud/changes/to",
 
 	"/jumpcloud/client_ip",
-
+	"/jumpcloud/geoip/region_name",
 ]
