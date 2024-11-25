@@ -14,9 +14,9 @@ rns_tp = [
 ]
 data = [
 	"/event.action",
+	"/user/name",
 	"/aws/cloudtrail/user_identity/arn",
 	"/aws/cloudtrail/flattened/request_parameters/alarmNames",
-	"/user/name",
 	"/group/name",
 	"/aws/cloudtrail/flattened/request_parameters/groupDescription",
 	"/source/address",

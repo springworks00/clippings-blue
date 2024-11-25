@@ -595,7 +595,7 @@ exclude_when_focused = [
 	"/@metadata/type",
 	"/@metadata/version",
 	"/aws/cloudtrail/flattened/request_parameters/vpcId",
-
+	"/tls/cipher",
 
 
 ]
