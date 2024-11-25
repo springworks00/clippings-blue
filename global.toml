@@ -575,7 +575,7 @@ exclude_when_focused = [
 	"/@metadata/index",
 	"/host/risk/calculated_level",
 	"/host/risk/calculated_score_norm",
-
+	"/kibana.alert.rule.timeline_title",
 
 
 
