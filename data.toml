@@ -122,6 +122,7 @@
 "/powershell/file/script_block_id" = "Script Block ID"
 "/rule/id" = "Rule ID"
 "/observer/ip" = "Observer IP"
+"/source/ip" = "Source IP"
 
 [format]
 "/process/command_line" = "block"
