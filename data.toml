@@ -111,6 +111,12 @@
 "/winlog/event_data/Additional Actions String" = "Defender Additional Actions"
 "/winlog/event_data/Origin Name" = "Origin"
 "/winlog/event_data/Category Name" = "Category"
+"/jumpcloud/changes/field" = "Field Changed"
+"/jumpcloud/changes/from" = "Field Old Value"
+"/jumpcloud/changes/to" = "Field New Value"
+"/jumpcloud/initiated_by/email" = "Initiated By"
+"/jumpcloud/client_ip" = "Client IP"
+"/jumpcloud/geoip/region_name" = "Client Region"
 
 [format]
 "/process/command_line" = "block"

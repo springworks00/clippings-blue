@@ -3,6 +3,7 @@ path_set = [
 	"/winlog/event_data/Detection User",
 	"/sentinel_one/threat/process_user",
 	"/source/user/name",
+	"/jumpcloud/resource/username",
 	
 	"/user/name",
 	"/user/target/name",

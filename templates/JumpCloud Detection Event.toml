@@ -1,0 +1,23 @@
+display_as = "JumpCloud Activity"
+surrounding_events = false
+rca_filler = "Per our investigation,"
+rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
+scopes = [
+	"__HOST__",
+	"__USER__",
+]
+rns = [
+	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+]
+rns_tp = [
+	"Ensure this activity was expected and approved.",
+]
+data = [
+	"/jumpcloud/initiated_by/email",
+	"/jumpcloud/changes/field",
+	"/jumpcloud/changes/from",
+	"/jumpcloud/changes/to",
+
+	"/jumpcloud/client_ip",
+
+]

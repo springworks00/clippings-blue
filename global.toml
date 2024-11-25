@@ -1,5 +1,6 @@
 timestamp = [ 
 	"/winlog/event_data/Detection Time",
+	"/jumpcloud/timestamp",
 	"/@timestamp",
 ]
 default_unique_prefix = ">"
@@ -606,7 +607,24 @@ exclude_when_focused = [
 	"/cisco/secure_endpoint/connector_guid",
 	"/cisco/secure_endpoint/event_type_id",
 	"/@metadata/pipeline",
-
+	"/jumpcloud/@version",
+	"/jumpcloud/geoip/continent_code",
+	"/jumpcloud/geoip/country_code",
+	"/jumpcloud/geoip/latitude",
+	"/jumpcloud/geoip/longitude",
+	"/jumpcloud/geoip/region_code",
+	"/jumpcloud/geoip/timezone",
+	"/jumpcloud/useragent/major",
+	"/jumpcloud/useragent/minor",
+	"/jumpcloud/useragent/os",
+	"/jumpcloud/useragent/os_major",
+	"/jumpcloud/useragent/os_name",
+	"/jumpcloud/useragent/os_version",
+	"/jumpcloud/useragent/patch",
+	"/jumpcloud/useragent/version",
+	"/jumpcloud/provider",
+	"/jumpcloud/organization",
+	"/jumpcloud/initiated_by/provider",
 
 
 
