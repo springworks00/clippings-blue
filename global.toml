@@ -603,7 +603,5 @@ exclude_when_focused = [
 
 
 
-
-
 ]
 exclude_when_compact = [ ]

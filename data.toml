@@ -53,6 +53,7 @@
 "/o365/audit/UserId" = "User ID"
 "/o365/audit/SiteUrl" = "Site URL"
 "/user/name" = "Acting User"
+"/json/actor/email" = "Actor Email"
 "/user/target/name" = "Target User"
 "/host/hostname" = "Host"
 "/host/name" = "Host"
@@ -96,6 +97,9 @@
 "/aws/cloudtrail/flattened/request_parameters/groupDescription" = "Group Description"
 "/google_workspace/admin/application/name" = "Application Name"
 "/google_workspace/admin/new_value" = "Admin New Value"
+"/json/events/type" = "Event Type"
+"/json/events/parameters/name" = "Event Parameter Name"
+"/json/events/parameters/value" = "Event Parameter Value"
 
 [format]
 "/process/command_line" = "block"
