@@ -14,7 +14,7 @@ rns_tp = [
 ]
 data = [
 	"/event.action",
-	"/powershell/file/script_block_id"
+	"/powershell/file/script_block_id",
 	"/file/name",
 	"/file/path",
 ]
