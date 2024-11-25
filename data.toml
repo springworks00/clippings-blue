@@ -90,7 +90,7 @@
 "/sentinel_one/threat/classification" = "Classification"
 "/Effective_process/name" = "Effective Process Name"
 "/Effective_process/executable" = "Effective Process Executable"
-
+"/threat/indicator/file/path" = "File Path"
 
 [format]
 "/process/command_line" = "block"

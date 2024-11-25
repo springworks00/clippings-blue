@@ -25,6 +25,8 @@ data = [
 
 	"/sentinel_one/threat/publisher/name",
 
+	"/sentinel_one/threat/originator_process",
+
 	"/sentinel_one/activity/data/threat/classification/name",
 	"/sentinel_one/threat/classification",
 	"/sentinel_one/activity/description/primary",

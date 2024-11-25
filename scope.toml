@@ -1,6 +1,7 @@
 ["__USER__"]
 path_set = [
 	"/winlog/event_data/Detection User",
+	"/sentinel_one/threat/process_user",
 	"/user/name",
 	"/user/target/name",
 ]
