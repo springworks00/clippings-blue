@@ -102,6 +102,7 @@
 "/json/events/parameters/value" = "Parameter Value"
 "/google_workspace/admin/setting/name" = "Setting Name"
 "/google_workspace/admin/user_defined_setting/name" = "User-Defined Setting Name"
+"/google_workspace/admin/user/email" = "Admin Email"
 
 [format]
 "/process/command_line" = "block"

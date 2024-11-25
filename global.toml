@@ -598,6 +598,12 @@ exclude_when_focused = [
 	"/tls/cipher",
 	"/aws/cloudtrail/flattened/request_parameters/groupId",
 	"/aws/cloudtrail/flattened/response_elements/requestId",
+	"/@metadata/truncated",
+	"/destination/geo/country_iso_code",
+	"/destination/geo/region_iso_code",
+	"/event.start",
+
+
 
 
 
