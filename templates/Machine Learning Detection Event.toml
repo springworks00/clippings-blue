@@ -5,7 +5,16 @@ scopes = [
 	"__USER__",
 ]
 rca_filler = "Per our investigation,"
-rca_footer = "TODO"
-rns = []
-rns_tp = []
-data = []
+rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
+rns = [
+	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+]
+rns_tp = [
+	"Ensure this activity was expected and approved.",
+]
+data = [
+	"/influencers/influencer_field_name",
+	"/influencers/influencer_field_values",
+
+	"/source/geo/country_name",
+]
