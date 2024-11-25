@@ -35,9 +35,10 @@ data = [
 
 	"/Target/process/name",
 	"/Target/process/executable",
+	"/Target/process/Ext/memory_region/strings",
+
 	"/Events/Persistence/args",
 	"/Events/Persistence/path",
-
 
 	"/Events/process/command_line",
 	"/Events/process/parent/command_line",

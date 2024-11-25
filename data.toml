@@ -130,9 +130,11 @@
 "/Events/Persistence/path" = "Persistence Path"
 "/Events/process/Ext/api/summary" = "Process API Summary"
 "/Events/process/parent/code_signature/subject_name" = "Parent Signer"
+"/Target/process/Ext/memory_region/strings" = "Target Process Memory Region Strings"
 
 
 [format]
+"/Target/process/Ext/memory_region/strings" = "block"
 "/process/command_line" = "block"
 "/process/parent/command_line" = "block"
 "/sentinel_one/activity/description/primary" = "block"
