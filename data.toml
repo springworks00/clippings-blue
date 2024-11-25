@@ -124,6 +124,10 @@
 "/rule/id" = "Rule ID"
 "/observer/ip" = "Observer IP"
 "/source/ip" = "Source IP"
+"/Target/process/name" = "Target Process"
+"/Target/process/executable" = "Target Executable"
+"/Events/Persistence/args" = "Persistence Args"
+"/Events/Persistence/path" = "Persistence Path"
 
 [format]
 "/process/command_line" = "block"

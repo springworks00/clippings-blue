@@ -29,6 +29,11 @@ data = [
 
 	"/Events/process/parent/name",
 	"/Events/process/parent/executable",
+	"/Target/process/name",
+	"/Target/process/executable",
+	"/Events/Persistence/args",
+	"/Events/Persistence/path",
+
 
 	"/Events/process/command_line",
 	"/Events/process/parent/command_line",
