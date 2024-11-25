@@ -118,6 +118,7 @@
 "/jumpcloud/client_ip" = "Client IP"
 "/jumpcloud/geoip/region_name" = "Client Region"
 "/jumpcloud/useragent/os_full" = "User Agent OS"
+"/jumpcloud/resource/username" = "User Resource"
 
 [format]
 "/process/command_line" = "block"
