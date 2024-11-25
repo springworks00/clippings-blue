@@ -602,11 +602,8 @@ exclude_when_focused = [
 	"/destination/geo/country_iso_code",
 	"/destination/geo/region_iso_code",
 	"/event.start",
-
-
-
-
-
+	"/cisco/secure_endpoint/detection_id",
+	"/cisco/secure_endpoint/connector_guid",
 
 
 ]
