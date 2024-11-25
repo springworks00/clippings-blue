@@ -14,6 +14,7 @@ app_display = "Users"
 
 ["__HOST__"]
 path_set = [
+	"/cisco_duo/auth/access_device/hostname",
 	"/host/hostname",
 	"/host/name",
 ]

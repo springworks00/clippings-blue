@@ -107,7 +107,7 @@
 "/fortinet/firewall/action" = "Event Action"
 "/fortinet/firewall/status" = "Event Status"
 "/observer/name" = "Observer"
-
+"/cisco_duo/auth/application/name" = "Auth Application"
 
 
 [format]

@@ -2,6 +2,7 @@ display_as = "Cisco Duo Activity"
 surrounding_events = false
 scopes = [
 	"__DOMAIN__",
+	"__HOST__",
 	"__USER__",
 ]
 rca_filler = "Per our investigation,"
@@ -15,11 +16,11 @@ rns_tp = [
 data = [
 	"/event.action",
 	"/user/name",
-	"/user/target/name",
 	"/cisco_duo/admin/action_performed_on",
 	"/cisco_duo/admin/flattened/admin_email",
 	"/cisco_duo/admin/flattened/policy",
 
+	"/cisco_duo/auth/application/name",	
 
 
 ]
