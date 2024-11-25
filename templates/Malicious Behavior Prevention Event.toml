@@ -13,6 +13,8 @@ rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
+	"/Responses/action/action",
+	"/Responses/message",
 	"/Events/event/action",
 	"/Events/destination/ip",
 

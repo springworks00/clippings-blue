@@ -25,13 +25,27 @@ data = [
 	"/Events/file/Ext/original/extension",
 	"/Events/file/Ext/original/path",
 
+	"/Events/dll/name",
+	"/Events/dll/path",
+
 	"/Events/process/name",
 	"/Events/process/executable",
 	"/Events/process/code_signature/subject_name",
 	"/Events/process/working_directory",
+	"/Events/process/Ext/api/summary",
+	"/Events/process/Ext/api/metadata/target_address_path",
+	"/Events/process/Ext/api/parameters/hook_module",
 
 	"/Events/process/parent/name",
 	"/Events/process/parent/executable",
+	"/Events/process/parent/code_signature/subject_name",
+
+	"/Target/process/name",
+	"/Target/process/executable",
+	"/Target/process/Ext/memory_region/strings",
+
+	"/Events/Persistence/args",
+	"/Events/Persistence/path",
 
 	"/Events/process/command_line",
 	"/Events/process/parent/command_line",

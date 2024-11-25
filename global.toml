@@ -626,6 +626,11 @@ exclude_when_focused = [
 	"/jumpcloud/initiated_by/provider",
 	"/jumpcloud/resource/id",
 	"/jumpcloud/initiated_by/id",
+	"/Events/registry/data/type",
+	"/Events/registry/hive",
+	"/Events/registry/key",
+
+
 
 ]
 exclude_when_compact = [ ]

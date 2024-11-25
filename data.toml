@@ -134,6 +134,7 @@
 "/Events/process/Ext/api/parameters/hook_module" = "Process Hook Module"
 "/Events/dll/name" = "DLL Name"
 "/Events/dll/path" = "DLL Path"
+"/winlog/logon/failure/reason" = "Logon Failure Reason"
 
 
 [format]

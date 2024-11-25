@@ -16,6 +16,9 @@ data = [
 	"/event.action",
 	"/dns/question/name",
 	"/dns/question/type",
+	
+	"/winlog/logon/failure/reason",
+	"/source/ip",
 
 	"/process/name",
 	"/process/executable",
