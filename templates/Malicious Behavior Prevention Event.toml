@@ -27,9 +27,12 @@ data = [
 	"/Events/process/code_signature/subject_name",
 	"/Events/process/working_directory",
 	"/Events/process/Ext/api/summary",
+	"/Events/process/Ext/api/metadata/target_address_path",
 
 	"/Events/process/parent/name",
 	"/Events/process/parent/executable",
+	"/Events/process/parent/code_signature/subject_name",
+
 	"/Target/process/name",
 	"/Target/process/executable",
 	"/Events/Persistence/args",

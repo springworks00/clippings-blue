@@ -129,6 +129,7 @@
 "/Events/Persistence/args" = "Persistence Args"
 "/Events/Persistence/path" = "Persistence Path"
 "/Events/process/Ext/api/summary" = "Process API Summary"
+"/Events/process/parent/code_signature/subject_name" = "Parent Signer"
 
 
 [format]
