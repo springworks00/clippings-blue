@@ -585,6 +585,17 @@ exclude_when_focused = [
 	"/sentinel_one/activity/data/threat/classification/source",
 	"/sentinel_one/activity/data/flattened/oldIncidentStatusTitle",
 	"/sentinel_one/activity/data/flattened/newIncidentStatusTitle",
+	"/tls/version",
+	"/tls/version_protocol",
+	"/@metadata/_id",
+	"/@metadata/beat",
+	"/@metadata/input_id",
+	"/@metadata/raw_index",
+	"/@metadata/stream_id",
+	"/@metadata/type",
+	"/@metadata/version",
+	"/aws/cloudtrail/flattened/request_parameters/vpcId",
+
 
 
 ]
