@@ -21,6 +21,11 @@ data = [
 	"/process/name",
 	"/process/executable",
 	"/process/code_signature/subject_name",
+	"/Effective_process/name",
+	"/Effective_process/executable",
+
 	"/process/command_line",
 	"/process/parent/command_line",
+	
+
 ]
