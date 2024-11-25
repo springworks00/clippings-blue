@@ -28,6 +28,7 @@ data = [
 	"/json/events/parameters/name",
 	"/json/events/parameters/value",
 
+	"/source/ip",
 	"/source/as/organization/name",
 	"/source/geo/city_name",
 	"/source/geo/region_name",
