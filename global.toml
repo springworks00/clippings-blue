@@ -583,8 +583,8 @@ exclude_when_focused = [
 	"/group/Ext/real/id",
 	"/sentinel_one/activity/data/flattened/storyline",
 	"/sentinel_one/activity/data/threat/classification/source",
-
-
+	"/sentinel_one/activity/data/flattened/oldIncidentStatusTitle",
+	"/sentinel_one/activity/data/flattened/newIncidentStatusTitle",
 
 
 ]
