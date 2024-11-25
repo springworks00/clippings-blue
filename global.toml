@@ -604,7 +604,7 @@ exclude_when_focused = [
 	"/event.start",
 	"/cisco/secure_endpoint/detection_id",
 	"/cisco/secure_endpoint/connector_guid",
-
+	"/cisco/secure_endpoint/event_type_id",
 
 ]
 exclude_when_compact = [ ]
