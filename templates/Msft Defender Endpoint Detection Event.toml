@@ -1,0 +1,27 @@
+display_as = "Msft Defender for Endpoint Event"
+surrounding_events = false
+rca_filler = "Per our investigation,"
+rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
+scopes = [
+	"__HOST__",
+	"__USER__",
+]
+rns = [
+	"For more information, please visit the Windows Defender portal.",
+	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+]
+rns_tp = [
+	"Ensure this activity was expected and approved.",
+]
+data = [
+
+
+
+	# "/winlog/event_data/Threat Name",
+	# "/winlog/event_data/Category Name",
+	# "/winlog/event_data/Origin",
+	# "/winlog/event_data/Origin Name",
+	# "/winlog/event_data/Process Name",
+	# "/winlog/event_data/Path",
+	# "/winlog/event_data/Additional Actions String",
+]
