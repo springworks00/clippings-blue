@@ -689,9 +689,9 @@ exclude_when_focused = [
 	"/Target/process/parent/code_signature/status",
 	"/Target/process/parent/code_signature/subject_name",
 	"/Target/process/parent/code_signature/trusted",
-
-
-
-
+	"/process/Ext/dll/Ext/code_signature/subject_name",
+	"/process/Ext/dll/Ext/code_signature/trusted",
+	"/process/Ext/dll/Ext/code_signature/exists",
+	"/process/Ext/dll/Ext/code_signature/status",
 ]
 exclude_when_compact = [ ]
