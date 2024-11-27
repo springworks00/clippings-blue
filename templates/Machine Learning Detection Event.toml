@@ -13,8 +13,20 @@ rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
-	"/influencers/influencer_field_name",
-	"/influencers/influencer_field_values",
-
+	"/user/name",
+	"/source/ip",
+	"/source/as/organization/name",
+	"/source/geo/city_name",
+	"/source/geo/region_name",
 	"/source/geo/country_name",
+	"/user_agent/original"
+]
+always = [
+	"/user/name",
+	"/source/ip",
+	"/source/as/organization/name",
+	"/source/geo/city_name",
+	"/source/geo/region_name",
+	"/source/geo/country_name",
+	"/user_agent/original",
 ]
