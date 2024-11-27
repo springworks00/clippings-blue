@@ -139,6 +139,7 @@
 "/influencers/influencer_field_name" = "Influencer Fields"
 "/influencers/influencer_field_values" = "Influencer Values"
 "/microsoft/defender_endpoint/threatName" = "Threat Name"
+"/file/hash/sha256" = "File SHA256"
 
 [format]
 "/Target/process/Ext/memory_region/strings" = "block"

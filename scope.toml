@@ -5,6 +5,7 @@ path_set = [
 	"/source/user/name",
 	"/jumpcloud/resource/username",
 	"/winlog/user/name",	
+	"/microsoft/defender_endpoint/loggedOnUsers/accountName",
 	"/user/name",
 	"/user/target/name",
 ]
