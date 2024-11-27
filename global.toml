@@ -9,7 +9,7 @@ report_footer = "The Todyl MXDR team will continue to monitor this organizationâ
 compaction_limit = 10
 exclude_when_focused = [
 	"/@version",
-	"/@timestamp",
+	# "/@timestamp",
 	"/data_stream/dataset",
 	"/data_stream/namespace",
 	"/data_stream/type",
@@ -659,6 +659,9 @@ exclude_when_focused = [
 	"/json/alerts/devices/onboardingStatus",
 	"/json/alerts/serviceSource",
 	"/json/alerts/detectionSource",
+	"/json/alerts/investigationId",
+
+
 
 ]
 exclude_when_compact = [ ]
