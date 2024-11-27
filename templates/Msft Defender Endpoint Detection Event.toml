@@ -15,9 +15,12 @@ rns_tp = [
 ]
 data = [
 	"/microsoft/defender_endpoint/threatName",
+	"/microsoft/defender_endpoint/evidence/detectionStatus",
 	"/file/name",
 	"/file/path",
 	"/file/hash/sha256",
+	"/microsoft/defender_endpoint/evidence/parentProcessFileName",
+	"/microsoft/defender_endpoint/evidence/parentProcessFilePath",
 
 	"/message",
 	"/process/command_line",

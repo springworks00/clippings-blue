@@ -631,6 +631,13 @@ exclude_when_focused = [
 	"/Events/registry/key",
 	"/event.end",
 	"/kibana.alert.original_event.end",
+	"/microsoft/defender_endpoint/incidentId",
+	"/microsoft/defender_endpoint/threatFamilyName",
+	"/microsoft/defender_endpoint/investigationId",
+	"/microsoft/defender_endpoint/detectorId",
+	"/event.timezone",
+
+
 
 ]
 exclude_when_compact = [ ]
