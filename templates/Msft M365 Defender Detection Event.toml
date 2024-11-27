@@ -14,24 +14,7 @@ rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
-	"/microsoft/defender_endpoint/threatName",
-	"/microsoft/defender_endpoint/evidence/detectionStatus",
-	"/file/name",
-	"/file/path",
-	"/file/hash/sha256",
-	"/microsoft/defender_endpoint/evidence/parentProcessFileName",
-	"/microsoft/defender_endpoint/evidence/parentProcessFilePath",
-
-	"/json/evidence/fileName",
-	"/json/evidence/filePath",
-	"/json/evidence/parentProcessFileName",
-	"/json/evidence/parentProcessFilePath",
-	"/json/evidence/registryHive",
-	"/json/evidence/registryKey",
-	"/json/evidence/registryValue",
-	"/json/evidence/registryValueName",
+	
 
 	"/message",
-	"/process/command_line",
-	"/json/evidence/processCommandLine",
 ]

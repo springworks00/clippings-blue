@@ -654,10 +654,10 @@ exclude_when_focused = [
 	"/json/alerts/mitreTechniques",
 	"/json/alerts/providerAlertId",
 	"/json/incidentId",
-
-
-
-
+	"/json/alerts/alertId",
+	"/json/alerts/devices/healthStatus",
+	"/json/alerts/devices/onboardingStatus",
+	"/json/alerts/serviceSource",
 
 
 ]
