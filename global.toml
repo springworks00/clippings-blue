@@ -660,8 +660,24 @@ exclude_when_focused = [
 	"/json/alerts/serviceSource",
 	"/json/alerts/detectionSource",
 	"/json/alerts/investigationId",
-
-
+	"/Target/process/parent/Ext/architecture",
+	"/Target/process/parent/Ext/code_signature/exists",
+	"/Target/process/parent/Ext/code_signature/status",
+	"/Target/process/parent/Ext/code_signature/subject_name",
+	"/Target/process/parent/Ext/code_signature/trusted",
+	"/Target/process/parent/args_count",
+	"/Target/process/parent/args",
+	"/process/Ext/dll/hash/md5",
+	"/process/hash/md5",
+	"/process/parent/hash/md5",
+	"/Target/process/parent/hash/md5",
+	"/Target/process/hash/md5",
+	"/Target/process/Ext/dll/hash/md5",
+	"/Target/process/Ext/architecture",
+	"/Target/process/Ext/code_signature/exists",
+	"/Target/process/Ext/code_signature/status",
+	"/Target/process/Ext/code_signature/subject_name",
+	"/Target/process/Ext/code_signature/subject_name",
 
 ]
 exclude_when_compact = [ ]

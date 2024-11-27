@@ -159,7 +159,8 @@
 "/json/alerts/entities/parentProcessFileName" = "Parent Name"
 "/json/alerts/entities/parentProcessFilePath" = "Parent Executable Directory"
 "/json/alerts/entities/processCommandLine" = "Process Command Line"
-
+"/json/alerts/entities/url" = "URL Entity"
+"/json/alerts/entities/verdict" = "Defender Verdict"
 
 
 [format]

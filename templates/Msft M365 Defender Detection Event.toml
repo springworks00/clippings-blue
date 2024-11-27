@@ -20,7 +20,8 @@ data = [
 	"/json/alerts/entities/parentProcessFileName",
 	"/json/alerts/entities/parentProcessFilePath",
 	"/json/alerts/entities/processCommandLine",
-
+	"/json/alerts/entities/url",
+	"/json/alerts/entities/verdict",
 
 	"/message",
 	"/json/alerts/description",
