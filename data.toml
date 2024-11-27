@@ -152,6 +152,13 @@
 "/json/evidence/registryKey" = "Registry Key"
 "/json/evidence/registryValue" = "Registry Value"
 "/json/evidence/registryValueName" = "Registry Value Name"
+"/json/alerts/description" = "Alert Description"
+"/json/alerts/entities/detectionStatus" = "Threat Status"
+"/json/alerts/entities/fileName" = "File Name"
+"/json/alerts/entities/filePath" = "File Path"
+"/json/alerts/entities/parentProcessFileName" = "Parent Name"
+"/json/alerts/entities/parentProcessFilePath" = "Parent Executable Directory"
+"/json/alerts/entities/processCommandLine" = "Process Command Line"
 
 
 
@@ -163,6 +170,7 @@
 "/sentinel_one/threat/malicious_process_arguments" = "block"
 "/registry/data/strings" = "block"
 "/json/evidence/registryValue" = "block"
+"/json/alerts/entities/processCommandLine" = "block"
 "/message" = "block"
 "/user_agent/original" = "block"
 "/Events/process/command_line" = "block"
@@ -171,6 +179,7 @@
 "/Responses/message" = "block"
 "/Events/registry/data/strings" = "block"
 "/sentinel_one/threat/indicators/description" = "block"
+"/json/alerts/description" = "block"
 
 [unique_prefix]
 "/process/command_line" = "$"

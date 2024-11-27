@@ -5,6 +5,7 @@ path_set = [
 	"/source/user/name",
 	"/jumpcloud/resource/username",
 	"/winlog/user/name",	
+	"/json/alerts/devices/loggedOnUsers/accountName",
 	"/microsoft/defender_endpoint/loggedOnUsers/accountName",
 	"/json/evidence/accountName",
 	"/user/name",
@@ -19,6 +20,7 @@ app_display = "Users"
 path_set = [
 	"/cisco_duo/auth/access_device/hostname",
 	"/json/computerDnsName",
+	"/json/alerts/devices/deviceDnsName", # questionable
 	"/host/hostname",
 	"/host/name",
 ]

@@ -14,7 +14,14 @@ rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
-	
+	"/json/alerts/entities/detectionStatus",	
+	"/json/alerts/entities/fileName",
+	"/json/alerts/entities/filePath",
+	"/json/alerts/entities/parentProcessFileName",
+	"/json/alerts/entities/parentProcessFilePath",
+	"/json/alerts/entities/processCommandLine",
+
 
 	"/message",
+	"/json/alerts/description",
 ]
