@@ -629,8 +629,8 @@ exclude_when_focused = [
 	"/Events/registry/data/type",
 	"/Events/registry/hive",
 	"/Events/registry/key",
-
-
+	"/event.end",
+	"/kibana.alert.original_event.end",
 
 ]
 exclude_when_compact = [ ]

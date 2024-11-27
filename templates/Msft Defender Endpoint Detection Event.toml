@@ -14,14 +14,8 @@ rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
+	"/file/name",
+	"/file/path",
 
-
-
-	# "/winlog/event_data/Threat Name",
-	# "/winlog/event_data/Category Name",
-	# "/winlog/event_data/Origin",
-	# "/winlog/event_data/Origin Name",
-	# "/winlog/event_data/Process Name",
-	# "/winlog/event_data/Path",
-	# "/winlog/event_data/Additional Actions String",
+	"/message",
 ]
