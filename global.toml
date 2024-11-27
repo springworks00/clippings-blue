@@ -636,7 +636,7 @@ exclude_when_focused = [
 	"/microsoft/defender_endpoint/investigationId",
 	"/microsoft/defender_endpoint/detectorId",
 	"/event.timezone",
-
+	"/microsoft/defender_endpoint/evidence/aadUserId",
 
 
 ]
