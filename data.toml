@@ -143,8 +143,15 @@
 "/microsoft/defender_endpoint/evidence/parentProcessFileName" = "Parent Name"
 "/microsoft/defender_endpoint/evidence/parentProcessFilePath" = "Parent Executable Directory"
 "/microsoft/defender_endpoint/evidence/detectionStatus" = "Threat Status"
-
-
+"/json/evidence/processCommandLine" = "Process Command Line"
+"/json/evidence/fileName" = "File Name"
+"/json/evidence/filePath" = "File Path"
+"/json/evidence/parentProcessFileName" = "Parent Name"
+"/json/evidence/parentProcessFilePath" = "Parent Executable Directory"
+"/json/evidence/registryHive" = "Registry Hive"
+"/json/evidence/registryKey" = "Registry Key"
+"/json/evidence/registryValue" = "Registry Value"
+"/json/evidence/registryValueName" = "Registry Value Name"
 
 
 
@@ -155,6 +162,7 @@
 "/sentinel_one/activity/description/primary" = "block"
 "/sentinel_one/threat/malicious_process_arguments" = "block"
 "/registry/data/strings" = "block"
+"/json/evidence/registryValue" = "block"
 "/message" = "block"
 "/user_agent/original" = "block"
 "/Events/process/command_line" = "block"
