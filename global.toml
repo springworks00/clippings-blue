@@ -640,6 +640,25 @@ exclude_when_focused = [
 	"/kibana.alert.original_event.original",
 	"/json/mitreTechniques",
 	"/json/id",
+	"/json/alerts/detectorId",
+	"/json/alerts/devices/aadDeviceId",
+	"/json/alerts/devices/mdatpDeviceId",
+	"/json/alerts/devices/osBuild",
+	"/json/alerts/devices/osProcessor",
+	"/json/alerts/devices/riskScore",
+	"/json/alerts/devices/version",
+	"/json/alerts/entities/aadUserId",
+	"/json/alerts/entities/userSid",
+	"/json/alerts/entities/deviceId",
+	"/json/alerts/incidentId",
+	"/json/alerts/mitreTechniques",
+	"/json/alerts/providerAlertId",
+	"/json/incidentId",
+
+
+
+
+
 
 ]
 exclude_when_compact = [ ]
