@@ -138,6 +138,7 @@
 "/source/enrich/hosting" = "Is Hosting Provider"
 "/influencers/influencer_field_name" = "Influencer Fields"
 "/influencers/influencer_field_values" = "Influencer Values"
+"/microsoft/defender_endpoint/threatName" = "Threat Name"
 
 [format]
 "/Target/process/Ext/memory_region/strings" = "block"

@@ -14,8 +14,10 @@ rns_tp = [
 	"Ensure this activity was expected and approved.",
 ]
 data = [
+	"/microsoft/defender_endpoint/threatName",
 	"/file/name",
 	"/file/path",
+	"/file/hash/sha256",
 
 	"/message",
 	"/process/command_line",
