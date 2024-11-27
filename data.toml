@@ -142,6 +142,7 @@
 "/file/hash/sha256" = "File SHA256"
 "/microsoft/defender_endpoint/evidence/parentProcessFileName" = "Parent Name"
 "/microsoft/defender_endpoint/evidence/parentProcessFilePath" = "Parent Executable Directory"
+"/microsoft/defender_endpoint/evidence/detectionStatus" = "Threat Status"
 
 
 
