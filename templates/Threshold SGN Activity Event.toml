@@ -15,5 +15,6 @@ data = [
 	"/kibana.alert.rule.parameters/threshold/value",
 	"/kibana.alert.threshold_result/count",
 	"/source.ip",
+	"/kibana.alert.reason",
 	"/message",
 ]

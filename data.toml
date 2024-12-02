@@ -157,6 +157,7 @@
 "/action_id" = "Action ID"
 "/osquery/process_name" = "Process Name"
 "/winlog/event_data/ServiceName" = "Service Name"
+"/kibana.alert.reason" = "Alert Reason"
 "/winlog/event_data/ServiceFileName" = "Service File"
 "/winlog/event_data/ServiceAccount" = "Service Account"
 "/osquery/serial_number" = "Serial Number"
