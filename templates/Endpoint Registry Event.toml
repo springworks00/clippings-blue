@@ -10,7 +10,7 @@ rns = [
 	"If this activity is not expected, please revert the specified registry alterations and reach out to the MXDR team for further investigation."
 ]
 rns_tp = [
-	"Ensure this activity was expected and approved.",
+	"Ensure this activity is expected and approved.",
 ]
 data = [
 	"/event.action",

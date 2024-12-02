@@ -11,7 +11,7 @@ rns = [
 	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
 ]
 rns_tp = [
-	"[TODO]"
+	"Ensure this activity is expected and approved."
 ]
 data = [
 	"/event.action",
