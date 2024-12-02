@@ -42,6 +42,5 @@ data = [
 	"/source/geo",
 	"/source/enrich/vpn",
 	"/source/enrich/hosting",
-	"/user_agent/name",
 	"/user_agent/original",
 ]
