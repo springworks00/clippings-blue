@@ -23,6 +23,5 @@ data = [
 	"/destination/address",
 	"/destination/geo",
 
-	"/user_agent/original",
 	"/message",
 ]
