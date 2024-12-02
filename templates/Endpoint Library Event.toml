@@ -16,11 +16,11 @@ data = [
 	"/event.action",
 	"/dll/name",
 	"/dll/path",
-	"/dll/code_signature/subject_name",
+	"/dll/code_signature",
 	"/dll/pe/original_file_name",
 	"/process/name",
 	"/process/executable",
-	"/process/code_signature/subject_name",
+	"/process/code_signature",
 	"/process/command_line",
 	"/process/parent/command_line",
 ]

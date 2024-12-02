@@ -20,7 +20,7 @@ data = [
 	"/file/Ext/original/path",
 	"/process/name",
 	"/process/executable",
-	"/process/code_signature/subject_name",
+	"/process/code_signature",
 	"/Effective_process/name",
 	"/Effective_process/executable",
 

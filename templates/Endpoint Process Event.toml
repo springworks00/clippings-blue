@@ -17,7 +17,7 @@ data = [
 	"/process/name",
 	"/process/executable",
 	"/process/working_directory",
-	"/process/code_signature/subject_name",
+	"/process/code_signature",
 	"/process/parent/name",
 	"/process/parent/executable",
 	"/process/Ext/effective_parent/name",
