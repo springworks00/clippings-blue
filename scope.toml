@@ -47,3 +47,13 @@ prefix_primary = "in tenant"
 prefix_secondary = "Affected Tenants"
 plural_fallback = "in multiple tenants"
 app_display = "Tenant"
+
+["__AGENT__"]
+path_set = [
+	"/agent.name"
+]
+prefix_primary = "from agent"
+prefix_secondary = "Related Agents"
+plural_fallback = "from multiple agents"
+app_display = "Agent"
+

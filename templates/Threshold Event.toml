@@ -1,7 +1,8 @@
 display_as = "Threshold Event"
 surrounding_events = true
 scopes = [
-	"__DOMAIN__",
+	"__TENANT__",
+	"__AGENT__",
 	"__USER__",
 ]
 rca_filler = "Per our investigation,"
