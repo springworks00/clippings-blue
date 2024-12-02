@@ -8,6 +8,7 @@ path_set = [
 	"/json/alerts/devices/loggedOnUsers/accountName",
 	"/microsoft/defender_endpoint/loggedOnUsers/accountName",
 	"/json/evidence/accountName",
+	"/winlog/event_data/SubjectUserName",
 	"/user/name",
 	"/user.name",
 	"/user/target/name",
