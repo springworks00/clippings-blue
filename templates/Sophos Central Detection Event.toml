@@ -17,6 +17,7 @@ data = [
 	"/event.code",
 	"/user/name",
 	"/source/ip",	
+	"/sophos_central/alert/data/endpoint/id",
 	
 	"/message",
 ]
