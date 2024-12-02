@@ -17,8 +17,8 @@ data = [
 	"/fortinet/firewall/devintfname",
 	"/action_id",
 	"/osquery/process_name",
-	"/osquery/serial_number",
 	"/osquery/signer",
+	"/osquery/serial_number",
 
 	"/observer/name",
 	"/source/ip",

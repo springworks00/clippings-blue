@@ -1,0 +1,37 @@
+display_as = "System Event"
+surrounding_events = true
+scopes = [
+	"__HOST__",
+	"__USER__",
+]
+rca_filler = "Per our investigation,"
+rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
+rns = [
+	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+]
+rns_tp = [
+	"Ensure this activity was expected and approved.",
+]
+data = [
+	"/event.action",
+	"/event.code",
+
+	"/winlog/event_data/ServiceName",
+	"/winlog/event_data/ServiceFileName",
+	"/winlog/event_data/ServiceAccount",
+
+	"/message",
+
+
+	# "/process/name",
+	# "/process/executable",
+	# "/process/working_directory",
+	# "/process/code_signature",
+	# "/process/parent/name",
+	# "/process/parent/executable",
+	# "/process/Ext/effective_parent/name",
+	# "/process/Ext/effective_parent/executable",
+
+	# "/process/command_line",
+	# "/process/parent/command_line",
+]
