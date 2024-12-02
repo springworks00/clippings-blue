@@ -161,7 +161,9 @@
 "/json/alerts/entities/processCommandLine" = "Process Command Line"
 "/json/alerts/entities/url" = "URL Entity"
 "/json/alerts/entities/verdict" = "Defender Verdict"
-
+"/kibana.alert.rule.parameters/threshold/value" = "Threshold Value"
+"/kibana.alert.threshold_result/count" = "Threshold Count"
+"/source.ip" = "Source IP"
 
 [format]
 "/Target/process/Ext/memory_region/strings" = "block"

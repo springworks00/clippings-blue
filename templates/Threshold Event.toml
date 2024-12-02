@@ -1,0 +1,18 @@
+display_as = "Threshold Event"
+surrounding_events = true
+scopes = [
+	"__DOMAIN__",
+	"__USER__",
+]
+rca_filler = "Per our investigation,\n\nAbuseIPDB has [X reports](__LINK__) of abuse for this IP."
+rca_footer = "There are no additional alerts at this time to suggest user account compromise."
+rns = [
+	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
+]
+rns_tp = [ ]
+data = [
+	"/kibana.alert.rule.parameters/threshold/value",
+	"/kibana.alert.threshold_result/count",
+	"/source.ip",
+	"/message",
+]
