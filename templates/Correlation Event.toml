@@ -18,7 +18,6 @@ data = [
 	"/dns/question/type",
 	
 	"/winlog/logon/failure/reason",
-	"/source/ip",
 
 	"/process/name",
 	"/process/executable",
@@ -30,6 +29,9 @@ data = [
 	"/process/parent/command_line",
 
 # ---- Suspicious Logon From an Abused Hosting Provider ---
+	"/source/ip",
+	"/source/address",
+	"/source/geo",
 	"/source/enrich/hosting",
 	"/user_agent/original",
 

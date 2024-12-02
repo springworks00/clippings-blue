@@ -21,7 +21,6 @@ data = [
 	"/group/name",
 	"/aws/cloudtrail/flattened/request_parameters/groupDescription",
 	"/source/address",
-	"/source/as/organization/name",
-	"/source/geo/country_name",
+	"/source/geo",
 	"/user_agent/original",
 ]

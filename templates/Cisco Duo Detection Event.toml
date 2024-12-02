@@ -22,6 +22,8 @@ data = [
 
 	"/cisco_duo/auth/application/name",	
 
-
+	"/source/ip",
+	"/source/address",
+	"/source/geo",
 ]
 

@@ -16,6 +16,9 @@ data = [
 	"/fortinet/firewall/action",
 	"/fortinet/firewall/status",
 	"/observer/name",
+	"/source/ip",
+	"/source/address",
+	"/source/geo",
 
 	"/message",
 ]
