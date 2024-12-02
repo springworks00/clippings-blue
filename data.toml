@@ -189,6 +189,7 @@
 "/kibana.alert.rule.parameters/threshold/value" = "Threshold Value"
 "/kibana.alert.threshold_result/count" = "Threshold Count"
 "/source.ip" = "Source IP"
+"/destination.address" = "Destination Addr"
 
 [format]
 "/Target/process/Ext/memory_region/strings" = "block"
