@@ -34,6 +34,7 @@
 "/source/enrich/proxy" = "Proxy Usage"
 "/destination/address" = "Destination IP"
 "/destination/ip" = "Destination IP"
+"/destination/geo" = "Destination Geo"
 "/Events/event/action" = "Event Action"
 "/Events/dns/question/name" = "DNS Question"
 "/Events/dns/question/type" = "DNS Type"
