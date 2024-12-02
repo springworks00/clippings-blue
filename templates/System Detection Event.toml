@@ -16,9 +16,14 @@ data = [
 	"/event.action",
 	"/event.code",
 
+	"/process/name",
+	"/process/executable",
+
 	"/winlog/event_data/ServiceName",
 	"/winlog/event_data/ServiceFileName",
 	"/winlog/event_data/ServiceAccount",
+
+	"/source/ip",
 
 	"/message",
 
