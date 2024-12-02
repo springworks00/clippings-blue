@@ -54,7 +54,7 @@
 "/Events/process/working_directory" = "Process Working Directory"
 "/process/working_directory" = "Process Working Directory"
 "/Events/process/code_signature/subject_name" = "Process Signer"
-"/Events/process/code_signature" = "Process Signature"
+"/Events/process/code_signature" = "Process Signer"
 "/Events/process/parent/name" = "Parent Name"
 "/Events/process/parent/executable" = "Parent Executable"
 "/Events/process/command_line" = "Process Command Line"
