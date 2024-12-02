@@ -4,7 +4,7 @@ scopes = [
 	"__HOST__",
 	"__USER__",
 ]
-rca_filler = "Per our investigation,"
+rca_filler = "Per our investigation,\n\nThere are currently [X out of Y vendors](__LINK__) on VirusTotal reporting this file as malicious."
 rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
 rns = [
 	"Implement \"Prevent\" mode for malicious behavior alerts within the Todyl customer portal.",

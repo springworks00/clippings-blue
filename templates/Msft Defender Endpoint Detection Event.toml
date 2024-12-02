@@ -1,6 +1,6 @@
 display_as = "Msft Defender for Endpoint Event"
 surrounding_events = false
-rca_filler = "Per our investigation,"
+rca_filler = "Per our investigation,\n\nThere are currently [X out of Y vendors](__LINK__) on VirusTotal reporting this file as malicious."
 rca_footer = "There are no additional alerts at this time which suggest user or host compromise."
 scopes = [
 	"__HOST__",

@@ -16,12 +16,14 @@ data = [
 	"/event.action",
 	"/user/name",
 	"/user/target/name",
+
 	"/azure/signinlogs/operation_name",
 	"/azure/auditlogs/operation_name",
 	"/azure/signinlogs/identity",
 	"/azure/signinlogs/properties/app_display_name",
 	"/azure/auditlogs/properties/initiated_by/app/displayName",
 	"/azure/auditlogs/properties/initiated_by/user/userPrincipalName",
+
 	"/o365/audit/ObjectId",
 	"/o365/audit/UserId",
 	"/o365/audit/FileData/FileName",
@@ -34,12 +36,12 @@ data = [
 	"/o365/audit/Parameters/Role",
 	"/o365/audit/Parameters/SecurityGroup",
 	"/o365/audit/ModifiedProperties/Role_DisplayName/NewValue",
+
+	"/source/ip",
 	"/source/address",
-	"/source/as/organization/name",
-	"/source/geo/city_name",
-	"/source/geo/region_name",
-	"/source/geo/country_name",
+	"/source/geo",
 	"/source/enrich/vpn",
 	"/source/enrich/hosting",
+	"/user_agent/name",
 	"/user_agent/original",
 ]
