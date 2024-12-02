@@ -2,6 +2,7 @@ display_as = "Unknown Event"
 surrounding_events = false
 scopes = [
 	"__TENANT__",
+	"__HOST__",
 	"__USER__",
 ]
 rca_filler = "Per our investigation,"
@@ -13,6 +14,12 @@ rns_tp = [ ]
 data = [
 	"/fortinet/firewall/action",
 	"/fortinet/firewall/status",
+	"/fortinet/firewall/devintfname",
+	"/action_id",
+	"/osquery/process_name",
+	"/osquery/serial_number",
+	"/osquery/signer",
+
 	"/observer/name",
 	"/source/ip",
 	"/source/address",

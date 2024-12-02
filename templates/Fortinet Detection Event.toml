@@ -9,9 +9,7 @@ rca_footer = "There are no additional alerts at this time to suggest user accoun
 rns = [
 	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
 ]
-rns_tp = [
-	"[TODO]"
-]
+rns_tp = [ ]
 data = [
 	"/fortinet/firewall/action",
 	"/fortinet/firewall/status",
