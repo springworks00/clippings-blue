@@ -695,7 +695,13 @@ exclude_when_focused = [
 	"/process/Ext/dll/Ext/code_signature/status",
 	"/Events/dll/hash/md5",
 	"/Events/process/hash/md5",
-
+	"/azure/signinlogs/properties/conditional_access_audiences/application_id",
+	"/azure/signinlogs/properties/correlation_id",
+	"/azure/signinlogs/properties/home_tenant_id",
+	"/azure/signinlogs/properties/id",
+	"/azure/signinlogs/properties/original_request_id",
+	"/azure/signinlogs/properties/resource_id",
+	"/azure/signinlogs/properties/unique_token_identifier",
 
 	# controversial
 	"/Events/host/ip",

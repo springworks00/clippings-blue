@@ -24,6 +24,7 @@
 "/azure/signinlogs/properties/app_display_name" = "Azure Application"
 "/user_agent/original" = "User Agent"
 "/source/address" = "Source IP"
+"/source/geo" = "Source Geo"
 "/source/as/organization/name" = "Source ASN"
 "/source/geo/city_name" = "Source City"
 "/source/geo/region_name" = "Source Region"
