@@ -693,5 +693,12 @@ exclude_when_focused = [
 	"/process/Ext/dll/Ext/code_signature/trusted",
 	"/process/Ext/dll/Ext/code_signature/exists",
 	"/process/Ext/dll/Ext/code_signature/status",
+	"/Events/dll/hash/md5",
+	"/Events/process/hash/md5",
+
+
+	# controversial
+	"/Events/host/ip",
+	"/host/ip",
 ]
 exclude_when_compact = [ ]

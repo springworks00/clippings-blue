@@ -53,7 +53,7 @@ path_set = [
 	"/agent.name"
 ]
 prefix_primary = "from agent"
-prefix_secondary = "Related Agents"
+prefix_secondary = "Agents"
 plural_fallback = "from multiple agents"
 app_display = "Agent"
 
