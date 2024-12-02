@@ -153,6 +153,7 @@
 "/influencers/influencer_field_name" = "Influencer Fields"
 "/influencers/influencer_field_values" = "Influencer Values"
 "/microsoft/defender_endpoint/threatName" = "Threat Name"
+"/by_field_value" = "Field Value"
 "/file/hash/sha256" = "File SHA256"
 "/microsoft/defender_endpoint/evidence/parentProcessFileName" = "Parent Name"
 "/microsoft/defender_endpoint/evidence/parentProcessFilePath" = "Parent Executable Directory"

@@ -16,6 +16,7 @@ data = [
 	"/event.action",
 	"/user/name",
 	"/user/target/name",
+	"/by_field_value",
 
 	"/azure/signinlogs/operation_name",
 	"/azure/auditlogs/operation_name",
