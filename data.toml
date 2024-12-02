@@ -208,6 +208,7 @@
 "/Events/registry/data/strings" = "block"
 "/sentinel_one/threat/indicators/description" = "block"
 "/json/alerts/description" = "block"
+"/kibana.alert.reason" = "block"
 
 [unique_prefix]
 "/process/command_line" = "$"
