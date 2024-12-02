@@ -3,6 +3,7 @@ surrounding_events = true
 scopes = [
 	"__TENANT__",
 	"__AGENT__",
+	"__HOST__",
 	"__USER__",
 ]
 rca_filler = "Per our investigation,"
