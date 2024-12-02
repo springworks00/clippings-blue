@@ -18,6 +18,9 @@ data = [
 	"/source/geo",
 	"/observer/ip",
 	"/destination/ip",
+	"/destination/address",
+	"/destination/geo",
+
 	"/rule/id",
 	"/sonicwall/firewall/category",
 

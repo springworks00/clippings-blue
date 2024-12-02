@@ -14,7 +14,11 @@ rns_tp = [
 ]
 data = [
 	"/Events/event/action",
+	"/Events/dns/question/name",
+	"/Events/dns/question/type",
 	"/Events/destination/ip",
+	"/Events/destination/address",
+	"/Events/destination/geo",
 
 	"/Events/file/name",
 	"/Events/file/path",

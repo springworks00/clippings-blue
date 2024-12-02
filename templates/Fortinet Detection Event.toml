@@ -19,6 +19,9 @@ data = [
 	"/source/ip",
 	"/source/address",
 	"/source/geo",
+	"/destination/ip",
+	"/destination/address",
+	"/destination/geo",
 
 	"/message",
 ]
