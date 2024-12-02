@@ -22,6 +22,7 @@ path_set = [
 	"/cisco_duo/auth/access_device/hostname",
 	"/json/computerDnsName",
 	"/json/alerts/devices/deviceDnsName", # questionable
+	"/sophos_central/alert/location",
 	"/host/hostname",
 	"/host/name",
 ]
