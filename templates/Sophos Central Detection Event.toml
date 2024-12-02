@@ -15,6 +15,7 @@ rns_tp = [
 data = [
 	"/event.action",
 	"/event.code",
+	"/user/name",
 	"/source/ip",	
 	
 	"/message",
