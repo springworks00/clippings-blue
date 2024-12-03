@@ -190,8 +190,8 @@
 "/kibana.alert.threshold_result/count" = "Threshold Count"
 "/source.ip" = "Source IP"
 "/destination.address" = "Destination Address"
-
-
+"/impossible_travel/source.ip_0" = "Source IP 0"
+"/impossible_travel/source.ip_1" = "Source IP 1"
 
 
 [format]

@@ -1,5 +1,6 @@
 display_as = "Anomalous Activity"
 surrounding_events = true
+timeline = true
 scopes = [
 	"__DOMAIN__",
 	"__USER__",
@@ -25,10 +26,10 @@ data = [
 	"/impossible_travel/source.as.organization_0",
 	"/impossible_travel/source.as.organization_1",
 
+	"/impossible_travel/source.geo.region_name_0",
+	"/impossible_travel/source.geo.region_name_0",
 	"/impossible_travel/source.geo.country_name_0",
 	"/impossible_travel/source.geo.country_name_1",
-	"/impossible_travel/source.geo.region_name_0",
-	"/impossible_travel/source.geo.region_name_0",
 	"/impossible_travel/source.ip_0",
 	"/impossible_travel/source.ip_1",
 	"/impossible_travel/user_agent.original_0",
