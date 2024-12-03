@@ -19,23 +19,20 @@ data = [
 	"/by_field_value",
 
 	# --- Impossible Travel ---
-"/impossible_travel/@timestamp_0",
-"/impossible_travel/@timestamp_1",
-"/impossible_travel/app_display_name_0",
-"/impossible_travel/app_display_name_1",
-"/impossible_travel/distance_km",
+	"/impossible_travel/app_display_name_0",
+	"/impossible_travel/app_display_name_1",
 
-"/impossible_travel/source.as.organization_0",
-"/impossible_travel/source.as.organization_1",
+	"/impossible_travel/source.as.organization_0",
+	"/impossible_travel/source.as.organization_1",
 
-"/impossible_travel/source.geo.country_name_0",
-"/impossible_travel/source.geo.country_name_1",
-"/impossible_travel/source.geo.region_name_0",
-"/impossible_travel/source.geo.region_name_0",
-"/impossible_travel/source.ip_0",
-"/impossible_travel/source.ip_1",
-"/impossible_travel/user_agent.original_0",
-"/impossible_travel/user_agent.original_1",
+	"/impossible_travel/source.geo.country_name_0",
+	"/impossible_travel/source.geo.country_name_1",
+	"/impossible_travel/source.geo.region_name_0",
+	"/impossible_travel/source.geo.region_name_0",
+	"/impossible_travel/source.ip_0",
+	"/impossible_travel/source.ip_1",
+	"/impossible_travel/user_agent.original_0",
+	"/impossible_travel/user_agent.original_1",
 
 	# -------------------------
 

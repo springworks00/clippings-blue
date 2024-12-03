@@ -191,7 +191,12 @@
 "/source.ip" = "Source IP"
 "/destination.address" = "Destination Address"
 
+
+
+
 [format]
+"/impossible_travel/user_agent.original_0" = "block"
+"/impossible_travel/user_agent.original_1" = "block"
 "/Target/process/Ext/memory_region/strings" = "block"
 "/process/command_line" = "block"
 "/process/parent/command_line" = "block"
