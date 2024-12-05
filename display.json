@@ -1,8 +1,0 @@
-{
-	"/process/name": "Process Name",
-	"/process/executable": "Process Executable",
-	"/process/command_line": "Process Command Line",
-	"/process/parent/name": "Parent Name",
-	"/process/parent/executable": "Parent Executable",
-	"/process/parent/command_line": "Parent Command Line"
-}
