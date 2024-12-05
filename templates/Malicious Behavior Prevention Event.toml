@@ -40,6 +40,8 @@ data = [
 	"/Events/process/parent/name",
 	"/Events/process/parent/executable",
 	"/Events/process/parent/code_signature",
+	"/Events/Effective_process/name",
+	"/Events/Effective_process/executable",
 
 	"/Target/process/name",
 	"/Target/process/executable",

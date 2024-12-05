@@ -11,7 +11,9 @@ rca_footer = "There are no additional alerts at this time to suggest user accoun
 rns = [
 	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
 ]
-rns_tp = [ ]
+rns_tp = [ 
+	"Ensure this activity is expected and approved."
+]
 data = [
 	"/kibana.alert.rule.parameters/threshold/value",
 	"/kibana.alert.threshold_result/count",

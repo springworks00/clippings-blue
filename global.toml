@@ -713,6 +713,7 @@ exclude_when_focused = [
 	"/azure/signinlogs/properties/resource_id",
 	"/azure/signinlogs/properties/unique_token_identifier",
 	"/dll/hash/md5",
+	"/todyl/billable_data",
 
 
 

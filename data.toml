@@ -192,7 +192,8 @@
 "/destination.address" = "Destination Address"
 "/impossible_travel/source.ip_0" = "Source IP 0"
 "/impossible_travel/source.ip_1" = "Source IP 1"
-
+"/Events/Effective_process/executable" = "Effective Process Executable"
+"/Events/Effective_process/name" = "Effective Process Name"
 
 [format]
 "/impossible_travel/user_agent.original_0" = "block"
