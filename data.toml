@@ -194,6 +194,7 @@
 "/impossible_travel/source.ip_1" = "Source IP 1"
 "/Events/Effective_process/executable" = "Effective Process Executable"
 "/Events/Effective_process/name" = "Effective Process Name"
+"/file/directory" = "File Directory"
 
 [format]
 "/impossible_travel/user_agent.original_0" = "block"

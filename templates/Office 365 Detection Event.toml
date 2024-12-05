@@ -32,6 +32,9 @@ data = [
 	"/o365/audit/FileData/MalwareFamily",
 	"/o365/audit/EventSource",
 	"/o365/audit/SiteUrl",
+	"/file/directory",
+	"/file/name",
+
 	"/url/original",
 	"/o365/audit/Parameters/Role",
 	"/o365/audit/Parameters/SecurityGroup",
