@@ -27,6 +27,6 @@ data = [
 
 	"/process/command_line",
 	"/process/parent/command_line",
-	
+	"/process/parent/code_signature",
 
 ]

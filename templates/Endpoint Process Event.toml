@@ -21,6 +21,7 @@ data = [
 	"/process/code_signature",
 	"/process/parent/name",
 	"/process/parent/executable",
+	"/process/parent/code_signature",
 	"/process/Ext/effective_parent/name",
 	"/process/Ext/effective_parent/executable",
 
