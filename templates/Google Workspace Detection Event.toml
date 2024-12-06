@@ -22,7 +22,7 @@ data = [
 	"/google_workspace/admin/user_defined_setting/name",
 	"/google_workspace/admin/user/email",
 	"/google_workspace/admin/new_value",
-
+	"/google_workspace/admin/api/scopes",
 
 	"/json/events/type",
 	"/json/events/parameters/name",

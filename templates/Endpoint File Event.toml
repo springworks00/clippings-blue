@@ -1,5 +1,6 @@
 display_as = "Endpoint File Activity"
 surrounding_events = true
+siem_link = "https://kibana.todyl.com/app/discover#/view/8829d875-364e-40d2-83b9-73b7febdde19?_g=()"
 scopes = [
 	"__HOST__",
 	"__USER__",

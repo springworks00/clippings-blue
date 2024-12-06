@@ -1,5 +1,6 @@
 display_as = "Azure Audit Event"
 surrounding_events = true
+siem_link = "https://kibana.todyl.com/app/discover#/view/22fa5cc5-2319-4681-9e3d-241670f99df4?_g=()"
 scopes = [
 	"__DOMAIN__",
 	"__USER__",
