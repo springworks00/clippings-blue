@@ -717,8 +717,12 @@ exclude_when_focused = [
 	"/file/hash/md5",
 	"/file/pe/Ext/sections/hash/md5",
 	"/file/pe/Ext/streams/hash/md5",
-
-
+	"/client/geo/location/lat",
+	"/client/geo/location/lon",
+	"/okta/debug_context/debug_data/request_id",
+	"/okta/security_context/as/number",
+	"/okta/transaction/id",
+	"/okta/uuid",
 
 	# controversial
 	"/Events/host/ip",
