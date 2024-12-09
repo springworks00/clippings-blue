@@ -723,6 +723,9 @@ exclude_when_focused = [
 	"/okta/security_context/as/number",
 	"/okta/transaction/id",
 	"/okta/uuid",
+	"/client/as/number",
+
+
 
 	# controversial
 	"/Events/host/ip",
