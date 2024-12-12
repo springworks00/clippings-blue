@@ -44,6 +44,10 @@ data = [
 	"/Events/Effective_process/name",
 	"/Events/Effective_process/executable",
 
+	"/Events/process/thread/Ext/call_stack_final_user_module/code_signature",
+	"/Events/process/thread/Ext/call_stack_final_user_module/name",
+	"/Events/process/thread/Ext/call_stack_final_user_module/path",
+
 	"/Target/process/name",
 	"/Target/process/executable",
 	"/Target/process/Ext/memory_region/strings",

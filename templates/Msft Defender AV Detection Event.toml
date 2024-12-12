@@ -19,6 +19,7 @@ data = [
 	"/winlog/event_data/Origin",
 	"/winlog/event_data/Origin Name",
 	"/winlog/event_data/Process Name",
+	"/winlog/event_data/Additional Actions String",
 	"/winlog/event_data/Path",
 	# "/winlog/event_data/Additional Actions String",
 ]

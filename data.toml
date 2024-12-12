@@ -26,7 +26,7 @@
 "/azure/signinlogs/identity" = "Azure Identity"
 "/azure/signinlogs/properties/app_display_name" = "Azure Application"
 "/user_agent/original" = "User Agent"
-"/source/address" = "Source Address"
+"/source/address" = "Source IP"
 "/source/geo" = "Source Geo"
 "/source/as/organization/name" = "Source ASN"
 "/source/geo/city_name" = "Source City"
@@ -196,6 +196,10 @@
 "/Events/Effective_process/name" = "Effective Process Name"
 "/file/directory" = "File Directory"
 "/google_workspace/admin/api/scopes" = "API Scopes"
+"/winlog/event_data/Additional Actions String" = "Defender Message"
+"/Events/process/thread/Ext/call_stack_final_user_module/code_signature" = "Call Stack Module Signer"
+"/Events/process/thread/Ext/call_stack_final_user_module/name" = "Call Stack Module Name"
+"/Events/process/thread/Ext/call_stack_final_user_module/path" = "Call Stack Module Path"
 
 [format]
 "/impossible_travel/user_agent.original_0" = "block"
