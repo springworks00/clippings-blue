@@ -196,7 +196,6 @@
 "/Events/Effective_process/name" = "Effective Process Name"
 "/file/directory" = "File Directory"
 "/google_workspace/admin/api/scopes" = "API Scopes"
-"/winlog/event_data/Additional Actions String" = "Defender Message"
 "/Events/process/thread/Ext/call_stack_final_user_module/code_signature" = "Call Stack Module Signer"
 "/Events/process/thread/Ext/call_stack_final_user_module/name" = "Call Stack Module Name"
 "/Events/process/thread/Ext/call_stack_final_user_module/path" = "Call Stack Module Path"
