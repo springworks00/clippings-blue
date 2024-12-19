@@ -22,4 +22,9 @@ data = [
 	"/winlog/event_data/Additional Actions String",
 	"/winlog/event_data/Path",
 	# "/winlog/event_data/Additional Actions String",
+	"/winlog/event_data/Path",
+
+	"/winlog/computer_name",
+	"/winlog/event_data/Product status",
+	"/winlog/event_data/RTP state",
 ]
