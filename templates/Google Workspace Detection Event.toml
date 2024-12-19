@@ -27,6 +27,7 @@ data = [
 	"/json/events/type",
 	"/json/events/parameters/name",
 	"/json/events/parameters/value",
+	"/json/ipAddress",
 
 	"/source/ip",
 	"/source/geo",
