@@ -16,12 +16,14 @@ rns_tp = [
 data = [
 	"/user/name",
 	"/source/ip",
+	"/source/as/organization/name",
 	"/source/geo",
 	"/user_agent/original"
 ]
 always = [
 	"/user/name",
 	"/source/ip",
+	"/source/as/organization/name",
 	"/source/geo",
 	"/user_agent/original",
 ]
