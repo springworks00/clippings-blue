@@ -28,7 +28,7 @@ data = [
 	"/impossible_travel/source.as.organization_1",
 
 	"/impossible_travel/source.geo.region_name_0",
-	"/impossible_travel/source.geo.region_name_0",
+	"/impossible_travel/source.geo.region_name_1",
 	"/impossible_travel/source.geo.country_name_0",
 	"/impossible_travel/source.geo.country_name_1",
 	"/impossible_travel/source.ip_0",
