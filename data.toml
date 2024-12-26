@@ -202,6 +202,7 @@
 "/Events/process/thread/Ext/call_stack_final_user_module/name" = "Call Stack Module Name"
 "/Events/process/thread/Ext/call_stack_final_user_module/path" = "Call Stack Module Path"
 "/json/ipAddress" = "IP Address"
+"/kibana.alert.threshold_result/cardinality/field" = "Detection Field"
 
 [format]
 "/impossible_travel/user_agent.original_0" = "block"

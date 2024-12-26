@@ -26,6 +26,7 @@ path_set = [
 	"/sophos_central/alert/location",
 	"/host/hostname",
 	"/host/name",
+	"/host.name",
 ]
 prefix_primary = "on host"
 prefix_secondary = "Affected Hosts"

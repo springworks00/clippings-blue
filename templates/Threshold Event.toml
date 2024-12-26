@@ -15,8 +15,10 @@ rns_tp = [
 	"Ensure this activity is expected and approved."
 ]
 data = [
+	"/kibana.alert.threshold_result/cardinality/field",
 	"/kibana.alert.rule.parameters/threshold/value",
 	"/kibana.alert.threshold_result/count",
 	"/source.ip",
+	"/file.extension",
 	"/message",
 ]

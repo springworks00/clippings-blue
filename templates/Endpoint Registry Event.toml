@@ -18,6 +18,9 @@ data = [
 	"/process/name",
 	"/process/executable",
 	"/process/code_signature",
+	"/Effective_process/name",
+	"/Effective_process/executable",
+
 	"/registry/path",
 	"/registry/value",
 	"/registry/data/strings",
