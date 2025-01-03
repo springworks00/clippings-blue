@@ -7,6 +7,14 @@ default_unique_prefix = ">"
 default_timeline = false
 # DO NOT CHANGE THIS FOOTER - primary method for metrics determining old templates vs narrated
 report_footer = "The Todyl MXDR team will continue to monitor this organization’s systems for any suspicious activity and will respond promptly to any potential threats. If you have additional questions for this activity, please reach out to the MXDR Team via Teams/Slack or by speaking with your Detection and Response Account Manager (DRAM)."
+
+# cv4 = "monitor the organization" and "and respond" (+ threat evaluation)
+# vs.
+# exported = "monitor this organization" and "and will respond"
+# exported_footer = "The Todyl MXDR team will continue to monitor this organization’s systems for any suspicious activity and will respond promptly to any potential threats. If you have additional questions for this activity, please reach out to the MXDR Team via Teams/Slack or by speaking with your Detection and Response Account Manager (DRAM)."
+
+# "any questions" instead of "additional questions"
+# remote_footer = "The Todyl MXDR team will continue to monitor this organization’s systems for any suspicious activity and will respond promptly to any potential threats. If you have any questions for this activity, please reach out to the MXDR Team via Teams/Slack or by speaking with your Detection and Response Account Manager (DRAM)."
 compaction_limit = 10
 exclude_when_focused = [
 	"/@version",
