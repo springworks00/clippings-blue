@@ -31,7 +31,7 @@ Wrap your detailed analysis in <detailed_analysis> tags. Follow these steps:
    d. Clearly distinguish between:
       - Known facts from the activity report (comma-separated)
       - Reasonable assumptions made in inferring the root cause (comma-separated)
-7. Reject any root causes that cannot be analytically substantiated or rely on purely circumstantial evidence.
+7. Explicitly reject any root causes that cannot be analytically substantiated or rely on purely circumstantial evidence.
 8. Summarize the overall system state based on your analysis.
 9. Conduct a final review of your analysis for accuracy and integrity.
 
