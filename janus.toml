@@ -23,7 +23,7 @@ Wrap your detailed analysis in <detailed_analysis> tags. Follow these steps:
    c. Note any unusual behavior or interactions if any exist
    d. State potential impact on system performance, security, or stability
 4. Analyze the sequence of events, identifying cause-and-effect relationships.
-5. List possible root causes for the observed activity (at least 2), based solely on the report evidence.
+5. List possible root causes for the observed activity (2 or more), based solely on the report evidence.
 6. For each potential root cause:
    a. Assess its probability
    b. Justify your reasoning with specific data from the report
@@ -31,7 +31,7 @@ Wrap your detailed analysis in <detailed_analysis> tags. Follow these steps:
    d. Clearly distinguish between:
       - Known facts from the activity report (comma-separated)
       - Reasonable assumptions made in inferring the root cause (comma-separated)
-7. Explicitly reject any root causes that cannot be analytically substantiated or rely on purely circumstantial evidence.
+7. Reject any root causes that cannot be analytically substantiated or rely on purely circumstantial evidence.
 8. Summarize the overall system state based on your analysis.
 9. Conduct a final review of your analysis for accuracy and integrity.
 
@@ -81,7 +81,7 @@ Example Structure:
 
 <potential_root_causes>
 1. [Root Cause 1]
-   Probability: [High/Medium/Low, note if Rejected]
+   Probability: [High/Medium/Low]
    Justification: [Reasoning based on report data]
    Event Chain: [Logical sequence of events]
    Known Facts: [List of facts from report]
