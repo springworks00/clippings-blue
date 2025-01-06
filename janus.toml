@@ -55,7 +55,7 @@ After completing your analysis, write an interpretive explanation using <explana
 Base your explanation entirely on the information provided in the report, without speculation or assumptions beyond the given context.
 
 Example Structure:
-
+<response>
 <detailed_analysis>
 <key_elements>
 1. [Element 1]
@@ -102,4 +102,5 @@ Example Structure:
 <explanation>
 Per our investigation, this activity [concise, terse explanation based on the most well-substantiated conclusions from the analysis, following the guidelines provided]
 </explanation>
+</response>
 """
