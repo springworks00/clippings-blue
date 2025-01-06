@@ -81,7 +81,7 @@ Example Structure:
 
 <potential_root_causes>
 1. [Root Cause 1]
-   Probability: [High/Medium/Low]
+   Probability: [High/Medium/Low, note if Rejected]
    Justification: [Reasoning based on report data]
    Event Chain: [Logical sequence of events]
    Known Facts: [List of facts from report]
