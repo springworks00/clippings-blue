@@ -96,6 +96,9 @@
 "/dll/Ext/code_signature/subject_name" = "DLL Signer"
 "/dll/Ext/code_signature" = "DLL Signer"
 "/dll/pe/original_file_name" = "Original DLL Name"
+"/file/pe/original_file_name" = "Original File Name"
+"/file/pe/product " = "File Product"
+"/file/pe/company " = "File Company"
 "/process/Ext/effective_parent/name" = "Effective Parent Name"
 "/process/Ext/effective_parent/executable" = "Effective Parent Executable"
 "/threat/indicator/file/hash/sha1" = "SHA1 Hash"
@@ -203,6 +206,7 @@
 "/Events/process/thread/Ext/call_stack_final_user_module/path" = "Call Stack Module Path"
 "/json/ipAddress" = "IP Address"
 "/kibana.alert.threshold_result/cardinality/field" = "Detection Field"
+"/azure/signinlogs/category" = "Sign-In Category"
 
 [format]
 "/impossible_travel/user_agent.original_0" = "block"

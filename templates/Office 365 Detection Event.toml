@@ -22,6 +22,7 @@ data = [
 	"/azure/signinlogs/operation_name",
 	"/azure/auditlogs/operation_name",
 	"/azure/signinlogs/identity",
+	"/azure/signinlogs/category",
 	"/azure/signinlogs/properties/app_display_name",
 	"/azure/auditlogs/properties/initiated_by/app/displayName",
 	"/azure/auditlogs/properties/initiated_by/user/userPrincipalName",
