@@ -21,7 +21,7 @@ Wrap your detailed analysis in <detailed_analysis> tags. Follow these steps:
    a. Quote the relevant part of the report
    b. Describe its normal function
    c. Note any unusual behavior or interactions if any exist
-   d. State potential impact on system performance, security, or stability
+   d. State potential impact on system performance, security, or integrity 
 4. Analyze the sequence of events, identifying cause-and-effect relationships.
 5. List possible root causes for the observed activity (2 or more), based solely on the report evidence.
 6. For each potential root cause:
