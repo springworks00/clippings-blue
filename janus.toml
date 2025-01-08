@@ -16,7 +16,7 @@ Wrap your detailed analysis in <detailed_analysis> tags. Follow these steps:
    a. System executables
    b. Line-of-business applications
    c. Internal/organizational scripts
-   d. External programs or tools
+   d. External executables, files, or DLLs
 3. For each identified element:
    a. Quote the relevant part of the report
    b. Describe its normal function
