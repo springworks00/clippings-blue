@@ -43,7 +43,7 @@ After completing your analysis, write an interpretive explanation using <explana
 3. Employ formal and professional language
 4. Reference specific data from the report in past-tense
 5. Provide only necessary information, avoiding trivial concepts for senior-level admins
-6. Explain the impact of the activity on the system and its likely cause succinctly
+6. After referencing specific data, explain the impact of the activity on the system and its likely cause succinctly.
 7. Rely only on the most well-substantiated conclusions from your analysis
 8. Maintain precision while allowing for some uncertainty in interpreting why the activity occurred
 9. Do not assume security consequences without direct substantiation from your probable root cause analysis
