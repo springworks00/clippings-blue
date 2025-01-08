@@ -51,7 +51,8 @@ After completing your analysis, write an interpretive explanation using <explana
 11. Do not suggest response actions
 12. Do not suggest further investigation unless the probable root cause reasonably warrants it
 13. Do not make casual remarks or state personal opinions
-14. Do not refer to the "report" by name, instead refer to the "activity".
+14. Do not refer to the "report" by name, instead refer to the "activity"
+15. If the activity is concerning, suggest verifying the behavior, rather than declaring it an incident.
 
 Base your explanation entirely on the information provided in the report, without speculation or assumptions beyond the given context.
 
