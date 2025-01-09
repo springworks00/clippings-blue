@@ -15,6 +15,10 @@ report_footer = "The Todyl MXDR team will continue to monitor this organization�
 
 # "any questions" instead of "additional questions"
 remote_footer = "The Todyl MXDR team will continue to monitor this organization’s systems for any suspicious activity and will respond promptly to any potential threats. If you have any questions for this activity, please reach out to the MXDR Team via Teams/Slack or by speaking with your Detection and Response Account Manager (DRAM)."
+# "questions about" instead of "questions for"
+claude_footer = "The Todyl MXDR team will continue to monitor this organization’s systems for any suspicious activity and will respond promptly to any potential threats. If you have any questions about this activity, please reach out to the MXDR Team via Teams/Slack or by speaking with your Detection and Response Account Manager (DRAM)."
+
+
 compaction_limit = 10
 exclude_when_focused = [
 	"/@version",
