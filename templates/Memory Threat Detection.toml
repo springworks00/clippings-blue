@@ -7,6 +7,7 @@ scopes = [
 rca_filler = "Per our investigation,\n\nThere are currently [X out of Y vendors](__LINK__) on VirusTotal reporting this process as malicious."
 rca_footer = "There are no additional alerts at this time to suggest user or host compromise."
 rns = [
+	"Implement \"Prevent\" mode for memory threat alerts within the Todyl customer portal.",
 	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
 ]
 rns_tp = [
@@ -35,4 +36,6 @@ data = [
 
 	"/process/command_line",
 	"/process/parent/command_line",
+
+
 ]

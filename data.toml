@@ -207,6 +207,10 @@
 "/json/ipAddress" = "IP Address"
 "/kibana.alert.threshold_result/cardinality/field" = "Detection Field"
 "/azure/signinlogs/category" = "Sign-In Category"
+"/process/Ext/memory_region/allocation_protection" = "Mem-Allocation Protection"
+"/process/Ext/memory_region/allocation_type" = "Mem-Allocation Type"
+"/process/Ext/memory_region/region_protection" = "Mem-Region Protection"
+"/process/Ext/memory_region/region_state" = "Mem-Region State"
 
 [format]
 "/impossible_travel/user_agent.original_0" = "block"
