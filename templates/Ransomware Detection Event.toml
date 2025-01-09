@@ -10,7 +10,26 @@ rns = [
 	"Implement \"Prevent\" mode for ransomware alerts within the Todyl Customer Portal.",
 	"If this activity is not expected, please reach out to the MXDR team for further investigation.",
 ]
-rns_tp = [ ]
+rns_tp = [ 
+	"Ensure this activity is expected and approved.",
+]
 data = [
+	"/event.action"
+	"/event.code",
+
+	"/process/name",
+	"/process/executable",
+	"/process/working_directory",
+	"/process/code_signature",
+	"/process/parent/name",
+	"/process/parent/executable",
+	"/process/parent/code_signature",
+	"/process/Ext/effective_parent/name",
+	"/process/Ext/effective_parent/executable",
+	"/Effective_process/name",
+	"/Effective_process/executable",
+
+	"/process/command_line",
+	"/process/parent/command_line",
 
 ]

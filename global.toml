@@ -737,14 +737,10 @@ exclude_when_focused = [
 	"/Ransomware/files/metrics",
 	"/process/Ext/dll/Ext/mapped_address",
 	"/process/Ext/dll/Ext/mapped_size",
-
-
-
-
-
-
-
-
+	"/Ransomware/files/data",
+	"/Ransomware/files/operation",
+	"/Ransomware/files/path",
+	"/Ransomware/files/extension",
 
 	# controversial
 	"/Events/host/ip",
