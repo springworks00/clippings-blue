@@ -13,7 +13,7 @@ rns_tp = [
 	"Ensure this activity is expected and approved.",
 ]
 data = [
-	"/event.code"
+	"/event.code",
 
 	"/process/name",
 	"/process/executable",
