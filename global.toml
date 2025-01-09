@@ -732,6 +732,17 @@ exclude_when_focused = [
 	"/okta/transaction/id",
 	"/okta/uuid",
 	"/client/as/number",
+	"/Ransomware/files/score",
+	"/Ransomware/files/entropy",
+	"/Ransomware/files/metrics",
+	"/process/Ext/dll/Ext/mapped_address",
+	"/process/Ext/dll/Ext/mapped_size",
+
+
+
+
+
+
 
 
 
