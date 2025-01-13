@@ -1,0 +1,19 @@
+[[customer]]
+name = "Team Logic IT"
+partner_id = "..." # critical (resolves name conflicts)
+teams_link = "..."
+note = "..."
+
+[[customer]]
+name = "Team Logic IT"
+partner_id = "..."
+teams_link = "..."
+note = "..."
+
+[[customer]]
+name = "D'Youville"
+tenant_id = "..."
+teams_link = "..."
+note = "..."
+
+
