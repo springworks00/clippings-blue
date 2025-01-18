@@ -29,4 +29,6 @@ data = [
 
 	"/process/command_line",
 	"/process/parent/command_line",
+
+	"/process/env_vars",
 ]

@@ -1,4 +1,5 @@
 [rename]
+"/process/env_vars" = "Process ENV vars"
 "/process/name" = "Process Name"
 "/process/executable" = "Process Executable"
 "/process/parent/name" = "Parent Name"
